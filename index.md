@@ -27,7 +27,23 @@ Thus, I have a strong background in Data Image Processing (as well as Machine Le
 
 ## PhD topic
 
-I will write some stuff in there shortly
+In the context of this PhD, we try to better understand how variability affects configurable systems in their performances.
+In particular, we focus on Computer Vision (CV) systems which are based on mathematical fundamentals.
+There are plenty of CV techniques developped to address different yet similar issues (such as tracking objects in videos or tracking pedestrians).
+It is hard to provide a representative set of examples (videos or images) which can occur while the system will be exploited.
+There are at least two issues in there :
+* the set has to be big enough to represent as much examples as possible that might occur while not being too big otherwise it would require too much computations (time, energy, etc.)
+* the set has to be diverse enough -> instances in the set have to be representative of the task while providing different characteristics.
+
+In the Software Engineering community, the problem of size of a set of test cases is well-known and addressed.
+Still, it remains a problem in a CV context because of all the available data that has to be taken into account.
+
+The second problem is difficult. We observed that two different videos/images with few visual differences presented to the same algorithm can lead to drastic differences in the performances of the algorithm.
+It is difficult to predict how differences can influence the performances of algorithms.
+
+This is even more difficult because of the configuration of the algorithm which might also have an influence on its performance.
+For instance, CV computations require computations power in order to be accurate. Some of these techniques can provide an option (defined by a real value) which will trade accuracy in the results (increasing the number of False Positives and/or False Negatives) to perform computations requiring less power, less energy and less time.
+
 
 ## Master's internship
 
