@@ -29,21 +29,12 @@ Thus, I have a strong background in Data Image Processing (as well as Machine Le
 
 In the context of this PhD, we try to better understand how variability affects configurable systems in their performances.
 In particular, we focus on Computer Vision (CV) systems which are based on mathematical fundamentals.
+They are also configurable systems with options that can influence their performances.
 There are plenty of CV techniques developped to address different yet similar issues (such as tracking objects in videos or tracking pedestrians).
-It is hard to provide a representative set of examples (videos or images) which can occur while the system will be exploited.
-There are at least two issues in there :
-* the set has to be big enough to represent as much examples as possible that might occur while not being too big otherwise it would require too much computations (time, energy, etc.)
-* the set has to be diverse enough -> instances in the set have to be representative of the task while providing different characteristics.
+Choosing a CV configuration that will give the best performances w.r.t. an input (i.e., videos or inputs) is a non-trivial process. Inputs can have features that affect drastically the performances of the CV technique.
+On the other hand, the configuration of the CV technique can also affect its performances.
 
-In the Software Engineering community, the problem of size of a set of test cases is well-known and addressed.
-Still, it remains a problem in a CV context because of all the available data that has to be taken into account.
-
-The second problem is difficult. We observed that two different videos/images with few visual differences presented to the same algorithm can lead to drastic differences in the performances of the algorithm.
-It is difficult to predict how differences can influence the performances of algorithms.
-
-This is even more difficult because of the configuration of the algorithm which might also have an influence on its performance.
-For instance, CV computations require computations power in order to be accurate. Some of these techniques can provide an option (defined by a real value) which will trade accuracy in the results (increasing the number of False Positives and/or False Negatives) to perform computations requiring less power, less energy and less time.
-
+Part of my work is to leverage Machine Learning techniques in order to understand how the CV configuration, on one hand, and given inputs, on the other, affect the performance of the program. 
 
 ## Master's internship
 
