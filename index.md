@@ -4,7 +4,7 @@ I am a 2-nd year PhD student working in the IRISA lab in the [DiverSE](http://di
 
 My supervisors are [Mathieu Acher](http://www.mathieuacher.com/) and [Jean-Marc JEZEQUEL](http://people.irisa.fr/Jean-Marc.Jezequel/).
 
-I am working on testing Computer vision algorithms with the use of Software Engineering techniques. (more in the background section)
+I am working on testing Computer vision algorithms with the use of Software Engineering techniques. (more in the PhD topic section)
 
 Furthermore, I am a tennis player. I began to play tennis at 6 until my 18. I stopped to focus on my studies and started again during my PhD.
 
@@ -38,7 +38,12 @@ Part of my work is to leverage Machine Learning techniques in order to understan
 
 ## Master's internship
 
-I will write some stuff in there shortly
+My internship took place in the TEXMEX (now [LinkMedia](http://www-linkmedia.irisa.fr/) )working group under the supervision of [Ewa Kijak](http://www.irisa.fr/texmex/Ewa.Kijak/index_en.php) and [Laurent Amsaleg](http://people.rennes.inria.fr/Laurent.Amsaleg/).
+The topic of this internship was the _security of Machine Learning processes applied to multimedia content_ which followed the work of [Thanh-Toan Do](https://sites.google.com/site/thanhtoando2212/) and his PhD.
+The goal of this internship was to have a better understanding of how Machine Learning techniques can be influenced in the establishment of their separating functions depending on data that they have seen.
+An other concern was how sensitive the establishment of separating functions is w.r.t. the distribution data points.
+This topic is very close to the work conducted by [Battista Biggio](https://pralab.diee.unica.it/en/BattistaBiggio) and the [PRALab](http://pralab.diee.unica.it/en) in Cagliari.
+
 
 # Publications
 
@@ -48,7 +53,19 @@ I will write some stuff in there shortly
 
 # Teaching activites
 
-TBA soon
+during the universitary year *2016-2017*:
+   * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
+   * Modélisation & Développement Industriel or MDI (Session Labs 12h + Tutoring 10h): Introduction to Design Pattern, UML modeling and Good Practices in the modeling of a system to ESIR2 students (equivalent M1 // first year of master's degree)
+   * Validation & Verification (Session labs -> 10h): Software Verification and Validation; software testing and technology to help testing. Adressed to ESIR3 students (equivalent M2 // second year of master's degree)
 
+during the universitary year *2015-2016*:
+   * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
+   * Software Architecture (Session labs -> 24h): introduction to containers, component based architecture to ESIR2 students (equivalent M1 // first year of master's degree)
+   * Validation & Verification (Session labs -> 10h): Software Verification and Validation; software testing and technology to help testing. Adressed to ESIR3 students (equivalent M2 // second year of master's degree)
+   * Introduction to Machine Learning (Session labs -> 12h): Introduction to supervised techniques (SVM, Decision Trees, Bayesian Classifier) and to abductive learning or inferential learning via ALEPH (in Prolog) to INSA students (equivalent M1 // first year of master's degree)
+
+during the universitary year *2015-2014* (at ENSICaen):
+   * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ENSICaen1 students (equivalent L3 // Bachelor's degree)
+   * Databases (Session labs -> 32h): SQL databases and requests; PL/SQL to ENSICaen2 students (equivalent M1 // first year of master's degree)
 # Contact me
 * paul.Temple@irisa.fr
