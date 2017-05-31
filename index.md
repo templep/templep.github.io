@@ -41,7 +41,7 @@ Part of my work is to leverage Machine Learning techniques in order to understan
 My internship took place in the TEXMEX (now [LinkMedia](http://www-linkmedia.irisa.fr/) )working group under the supervision of [Ewa Kijak](http://www.irisa.fr/texmex/Ewa.Kijak/index_en.php) and [Laurent Amsaleg](http://people.rennes.inria.fr/Laurent.Amsaleg/).
 The topic of this internship was the _security of Machine Learning processes applied to multimedia content_ which followed the work of [Thanh-Toan Do](https://sites.google.com/site/thanhtoando2212/) and his PhD.
 The goal of this internship was to have a better understanding of how Machine Learning techniques can be influenced in the establishment of their separating functions depending on data that they have seen.
-An other concern was how sensitive the establishment of separating functions is w.r.t. the distribution data points.
+An other concern was how sensitive the establishment of separating functions is w.r.t. the distribution of data points.
 This topic is very close to the work conducted by [Battista Biggio](https://pralab.diee.unica.it/en/BattistaBiggio) and the [PRALab](http://pralab.diee.unica.it/en) in Cagliari.
 
 
