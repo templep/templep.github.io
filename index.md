@@ -68,4 +68,4 @@ during the universitary year *2015-2014* (at ENSICaen):
    * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ENSICaen1 students (equivalent L3 // Bachelor's degree)
    * Databases (Session labs -> 32h): SQL databases and requests; PL/SQL to ENSICaen2 students (equivalent M1 // first year of master's degree)
 # Contact me
-* paul.Temple@irisa.fr
+* paul.temple@irisa.fr
