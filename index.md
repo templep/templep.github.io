@@ -1,6 +1,6 @@
 # Presentation
 
-I am a 3-rd year PhD student working in the IRISA lab in the [DiverSE](http://diverse.irisa.fr/) working group in Rennes (France).
+I am a 3-rd year PhD student working at Université de Rennes and IRISA lab in the [DiverSE](http://diverse.irisa.fr/) working group in Rennes (France).
 
 My supervisors are [Mathieu Acher](http://www.mathieuacher.com/) and [Jean-Marc JEZEQUEL](http://people.irisa.fr/Jean-Marc.Jezequel/).
 
