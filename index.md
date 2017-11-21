@@ -49,9 +49,16 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 * Paul Temple, José Angel Galindo Duarte, Mathieu Acher, Jean-Marc Jézéquel. [Using Machine Learning to Infer Constraints for Product Lines](https://hal.inria.fr/hal-01323446). Software Product Line Conference (SPLC), Sep 2016, Beijing
 
-* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel, Léo Noel-Baron, José Galindo. [Learning-Based Performance Specialization of Configurable Systems](https://hal.inria.fr/hal-01467299).
+* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel, Léo Noel-Baron, José Galindo. [Learning-Based Performance Specialization of Configurable Systems](https://hal.inria.fr/hal-01467299)
+
+* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel, Olivier Barias. [Learning Contextual-Variability Models](http://resolver.ebscohost.com/openurl?sid=google&auinit=P&aulast=Temple&atitle=Learning+Contextual-Variability+Models&id=doi%3a10.1109%2fMS.2017.4121211&site=ftf-live). IEEE Software Special Issue on Context Aware and Smart Healthcare, Novembre-Décembre 2017
 
 # Teaching activites
+
+during the universitary year *2017-2108*:
+   * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
+   * Modélisation & Développement Industriel or MDI (Session Labs 12h + Tutoring 10h)
+   * Software Architecture (Session labs -> 12h)
 
 during the universitary year *2016-2017*:
    * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
