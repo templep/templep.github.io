@@ -47,20 +47,28 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 # Publications
 
+* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel. [Multimorphic Testing](https://hal.inria.fr/hal-01730163/). 40th International Conference on Software Engineering (ICSE), May 2018, Gothenburg, Sweden  (*Poster Session*)
+
+* Jabier Martinez, Jean-Sébasten Sottet, Alfonso Garcia Frey, Tegawendé Bissyandé, Tewfik Ziadi, Jacques Klein, Paul Temple, Mathieu Acher, Yves Le Traon. [Towards Estimating and Predicting User Perception on Software Product Variants](http://hal.upmc.fr/hal-01720519). International Conference on Software Reuse (ICSR), May 2018, Madrid, Spain
+
+* Mathieu Acher, Paul Temple, Jean-Marc Jézéquel, José Angel Galindo Duarte, Jabier Martinez, Tewfik Ziadi. [VaryLaTeX: Learning Paper Variants That Meet Constraints](https://hal.inria.fr/hal-01659161). 12th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), Feb 2018, Madrid, Spain
+
+* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel, Olivier Barias. [Learning Contextual-Variability Models](http://resolver.ebscohost.com/openurl?sid=google&auinit=P&aulast=Temple&atitle=Learning+Contextual-Variability+Models&id=doi%3a10.1109%2fMS.2017.4121211&site=ftf-live). IEEE Software Special Issue on Context Aware and Smart Healthcare, Novembre-Décembre 2017
+
 * Paul Temple, José Angel Galindo Duarte, Mathieu Acher, Jean-Marc Jézéquel. [Using Machine Learning to Infer Constraints for Product Lines](https://hal.inria.fr/hal-01323446). Software Product Line Conference (SPLC), Sep 2016, Beijing, China
 
 * Paul Temple, Mathieu Acher, Jean-Marc Jézéquel, Léo Noel-Baron, José Galindo. [Learning-Based Performance Specialization of Configurable Systems](https://hal.inria.fr/hal-01467299)
 
-* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel, Olivier Barias. [Learning Contextual-Variability Models](http://resolver.ebscohost.com/openurl?sid=google&auinit=P&aulast=Temple&atitle=Learning+Contextual-Variability+Models&id=doi%3a10.1109%2fMS.2017.4121211&site=ftf-live). IEEE Software Special Issue on Context Aware and Smart Healthcare, Novembre-Décembre 2017
+# Program Comitees
 
-* Mathieu Acher, Paul Temple, Jean-Marc Jézéquel, José Angel Galindo Duarte, Jabier Martinez, Tewfik Ziadi. [VaryLaTeX: Learning Paper Variants That Meet Constraints](https://hal.inria.fr/hal-01659161). 12th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), Feb 2018, Madrid, Spain
+I will part of the PC members of the [1st Workshop on Computational Intelligence for Software Product Lines (CI4SPL)](https://ci4spl.github.io/) which will be held in conjunction with SPLC2018 in September 2018 in Gothenburg, Sweden.
 
 # Teaching activites
 
 during the universitary year *2017-2108*:
    * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
-   * Modélisation & Développement Industriel or MDI (Session Labs 12h + Tutoring 10h)
-   * Software Architecture (Session labs -> 12h)
+   * Modélisation & Développement Industriel or MDI (Session Labs 12h + Tutoring 10h) : UML, Design Pattern, Basics of software testing and Good Practices in the modeling of a system to ESIR2 students (equivalent M1 // first year of master's degree)
+   * Software Architecture (Session labs -> 12h) : introduction to containers, component based architecture to ESIR2 students (equivalent M1 // first year of master's degree)
 
 during the universitary year *2016-2017*:
    * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
@@ -69,7 +77,7 @@ during the universitary year *2016-2017*:
 
 during the universitary year *2015-2016*:
    * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
-   * Software Architecture (Session labs -> 24h): introduction to containers, component based architecture to ESIR2 students (equivalent M1 // first year of master's degree)
+   * Software Architecture (Session labs -> 2*12h): introduction to containers, component based architecture to ESIR2 students (equivalent M1 // first year of master's degree)
    * Validation & Verification (Session labs -> 10h): Software Verification and Validation; software testing and technology to help testing. Adressed to ESIR3 students (equivalent M2 // second year of master's degree)
    * Introduction to Machine Learning (Session labs -> 12h): Introduction to supervised techniques (SVM, Decision Trees, Bayesian Classifier) and to abductive learning or inferential learning via ALEPH (in Prolog) to INSA students (equivalent M1 // first year of master's degree)
 
