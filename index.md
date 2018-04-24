@@ -61,7 +61,7 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 # Program Comitees
 
-I will part of the PC members of the [1st Workshop on Computational Intelligence for Software Product Lines (CI4SPL)](https://ci4spl.github.io/) which will be held in conjunction with SPLC2018 in September 2018 in Gothenburg, Sweden.
+I will be a PC member of the [1st Workshop on Computational Intelligence for Software Product Lines (CI4SPL)](https://ci4spl.github.io/) which will be held in conjunction with SPLC2018 in September 2018 in Gothenburg, Sweden.
 
 # Teaching activites
 
