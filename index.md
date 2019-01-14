@@ -1,10 +1,12 @@
 # Presentation
 
-I am a 3-rd year PhD student working at Université de Rennes and IRISA lab in the [DiverSE](http://diverse.irisa.fr/) working group in Rennes (France).
+I am currently a post-doc in the PReCISE research center at the university of Namur.
+I am working on the VeryLearn EoS project with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
 
-My supervisors are [Mathieu Acher](http://www.mathieuacher.com/) and [Jean-Marc JEZEQUEL](http://people.irisa.fr/Jean-Marc.Jezequel/).
-
-I am working on testing Computer vision algorithms with the use of Software Engineering techniques. (more in the PhD topic section)
+Previously, I passed my PhD working at Université de Rennes and IRISA lab in the [DiverSE](http://diverse.irisa.fr/) working group in Rennes (France).
+My supervisors were [Mathieu Acher](http://www.mathieuacher.com/) and [Jean-Marc JEZEQUEL](http://people.irisa.fr/Jean-Marc.Jezequel/).
+The topic was: leveraging configurability of configurable software systems in order to test those software systems.
+I emphasized my studies on Computer Vision algorithms (more in the PhD topic section).
 
 Furthermore, I am a tennis player. I began to play tennis at 6 until my 18. I stopped to focus on my studies and started again during my PhD.
 
