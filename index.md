@@ -68,7 +68,10 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 # Program Comitees
 
-I will be a PC member of the [1st Workshop on Computational Intelligence for Software Product Lines (CI4SPL)](https://ci4spl.github.io/) which will be held in conjunction with SPLC2018 in September 2018 in Gothenburg, Sweden.
+I was PC member of the [1st Workshop on Computational Intelligence for Software Product Lines (CI4SPL)](https://ci4spl.github.io/) which will be held in conjunction with SPLC2018 in September 2018 in Gothenburg, Sweden.
+
+I am PC member of the [SPLC'19](https://splc2019.net/) Artifacts Track organized in Paris from the 9th to the 13th of September 2019.
+Do not hesitate to look at the [Call for Papers](https://splc2019.net/call-for-papers/call-for-research-papers/)
 
 # Teaching activites
 
