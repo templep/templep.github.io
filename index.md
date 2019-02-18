@@ -73,7 +73,15 @@ I was PC member of the [1st Workshop on Computational Intelligence for Software 
 I am PC member of the [SPLC'19](https://splc2019.net/) Artifacts Track organized in Paris from the 9th to the 13th of September 2019.
 Do not hesitate to look at the [Call for Papers](https://splc2019.net/call-for-papers/call-for-research-papers/)
 
-# Teaching activites
+# Review activities
+I had already reviewed papers for:
+ * TSE (for Dr. Gilles Perrouin)
+ * JSS
+ * SoSyM
+ * SEAMS (for Prof. Jean-Marc Jézéquel)
+ * ESEM (for Dr. Mathieu Acher)
+
+# Teaching activities
 
 during the universitary year *2017-2108*:
    * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
