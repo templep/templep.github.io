@@ -78,6 +78,7 @@ I had already reviewed papers for:
  * TSE (for Dr. Gilles Perrouin)
  * JSS
  * SoSyM
+ * IEE T-IFS
  * SEAMS (for Prof. Jean-Marc Jézéquel)
  * ESEM (for Dr. Mathieu Acher)
 
