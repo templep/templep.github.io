@@ -50,12 +50,12 @@ In particular, we focus on Computer Vision (CV) systems which are based on mathe
 They are also configurable systems with options that can influence their performances.
 There are plenty of CV techniques developped to address different yet similar issues (such as tracking objects in videos or tracking pedestrians).
 Choosing a CV configuration that will give the best performances w.r.t. an input (i.e., videos or inputs) is a non-trivial process. Inputs can have features that affect drastically the performances (e.g., execution time, memory consumption or even capability of performing the task at hand) of the CV technique.
-Additionally, the configuration of the system can have an impact on its performances.
+Additionally, the configuration of the system can have an impact on its performances.-->
 
 <!--Part of my work is to leverage Machine Learning techniques in order to understand how the CV configuration, on one hand, and given inputs, on the other, affect the performance of the program.
 Part of my work focused on leveraging Machine Learning techniques to help users configuring their systems such that, by reducing the variability space (i.e., values that can be set to options), it will meet users' performance requirements.
 An other part has been to evaluate the relative merits of a set of tests to distinguish different configurations of a system.
-In the end, assessing the quality of tests might help in detecting bugs, reducing the number of tests to execute, etc.
+In the end, assessing the quality of tests might help in detecting bugs, reducing the number of tests to execute, etc.-->
 
 ## Master's internship
 
