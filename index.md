@@ -27,7 +27,7 @@ Thus, I have a strong background in Data Image Processing (as well as Machine Le
 # Research Activities
 
 ## PhD topic
-__title: Investigate the Matrix: Leveraging Variability to Specialize Software and Test Suites__
+title: __Investigate the Matrix: Leveraging Variability to Specialize Software and Test Suites__
 *[manuscript and slides](https://github.com/templep/Candidature_Prix_these_GPL_2018)*
 
 My PhD tackles both the problem of testing configurable systems and improving the quality of test suites (in particular in the context of configurable systems).
