@@ -27,16 +27,32 @@ Thus, I have a strong background in Data Image Processing (as well as Machine Le
 # Research Activities
 
 ## PhD topic
+__title: Investigate the Matrix: Leveraging Variability to Specialize Software and Test Suites__
+*[manuscript and slides](https://github.com/templep/Candidature_Prix_these_GPL_2018)*
+
+My PhD tackles both the problem of testing configurable systems and improving the quality of test suites (in particular in the context of configurable systems).
+Modern software are configurable since they are designed to appeal to the largest possible number of users via customization and configuration.
+This makes software evermore complex, hard to design, code, test and maintain.
+In particular, how can we help users, having a specific application in mind or very specific requirements (for instance in terms of performance), in finding a proper configuration that is likely to meet their requirements?
+It is very challenging since the number of configuration options is so big (about 13k for the Linux Kernel) that it is usually impossible to generate all the possible variants in order to assess whether they comply with given requirements.
+In addition, configuration constraints (telling which combination of options are allowed or not) complexify the configuration space introducing even more computation problems.
+
+The other part of my PhD is about how can we improve the quality of test suites designed to test configurable systems?
+Usually, several test cases are needed in order to properly test a piece of software.
+It is still the case with configurable software but the problem is that different configurations may behave differently depending on the given inputs, multiplying the number of tests needed to assess the quality of the system (globally).
+Because of the different behaviors of configurations, finding *good* (performance) test cases is difficult and I tried to tackle this challenge.
+
+I have applied these different directions to different systems from different domains ranging from code compilers to computer vision based systems including machine learning based systems.
 
 
-In the context of this PhD, we try to better understand how variability affects configurable systems in their performances.
+<!--In the context of this PhD, we try to better understand how variability affects configurable systems in their performances.
 In particular, we focus on Computer Vision (CV) systems which are based on mathematical fundamentals.
 They are also configurable systems with options that can influence their performances.
 There are plenty of CV techniques developped to address different yet similar issues (such as tracking objects in videos or tracking pedestrians).
 Choosing a CV configuration that will give the best performances w.r.t. an input (i.e., videos or inputs) is a non-trivial process. Inputs can have features that affect drastically the performances (e.g., execution time, memory consumption or even capability of performing the task at hand) of the CV technique.
 Additionally, the configuration of the system can have an impact on its performances.
 
-Part of my work is to leverage Machine Learning techniques in order to understand how the CV configuration, on one hand, and given inputs, on the other, affect the performance of the program.
+<!--Part of my work is to leverage Machine Learning techniques in order to understand how the CV configuration, on one hand, and given inputs, on the other, affect the performance of the program.
 Part of my work focused on leveraging Machine Learning techniques to help users configuring their systems such that, by reducing the variability space (i.e., values that can be set to options), it will meet users' performance requirements.
 An other part has been to evaluate the relative merits of a set of tests to distinguish different configurations of a system.
 In the end, assessing the quality of tests might help in detecting bugs, reducing the number of tests to execute, etc.
