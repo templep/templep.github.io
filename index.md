@@ -1,12 +1,11 @@
 # Presentation
 
-I am currently a post-doc in the PReCISE research center at the university of Namur.
+I am currently a post-doc at the PReCISE research center at the University of Namur (UNamur).
 I am working on the VeryLearn EoS project with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
 
-Previously, I passed my PhD working at Université de Rennes and IRISA lab in the [DiverSE](http://diverse.irisa.fr/) working group in Rennes (France).
+Previously, I obtained my PhD working at Université de Rennes and IRISA lab in the [DiverSE](http://diverse.irisa.fr/) working group in Rennes (France).
 My supervisors were [Mathieu Acher](http://www.mathieuacher.com/) and [Jean-Marc JEZEQUEL](http://people.irisa.fr/Jean-Marc.Jezequel/).
-The topic was: leveraging configurability of configurable software systems in order to test those software systems.
-I emphasized my studies on Computer Vision algorithms (more in the PhD topic section).
+The thesis is entitled: Investigate the Matrix: Leveraging Variability to Specialize Software and Test Suites (more in the PhD topic section).
 
 Furthermore, I am a tennis player. I began to play tennis at 6 until my 18. I stopped to focus on my studies and started again during my PhD.
 
@@ -28,6 +27,7 @@ Thus, I have a strong background in Data Image Processing (as well as Machine Le
 # Research Activities
 
 ## PhD topic
+
 
 In the context of this PhD, we try to better understand how variability affects configurable systems in their performances.
 In particular, we focus on Computer Vision (CV) systems which are based on mathematical fundamentals.
