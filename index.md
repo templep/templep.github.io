@@ -104,9 +104,16 @@ I had already reviewed papers for:
  * TSE (for Dr. Gilles Perrouin)
  * JSS
  * SoSyM
- * IEE T-IFS
+ * IEEE T-IFS
  * SEAMS (for Prof. Jean-Marc Jézéquel)
  * ESEM (for Dr. Mathieu Acher)
+ 
+# Supervision & Jury Member
+
+I am currently helping in the supervision of two PhD students: Géraldin Nanfack (PhD student under the supervision of Prof. Benoît Frénay) and Sophie Fortz (PhD student under the supervision of Dr. Gilles Perrouin).
+During my PhD, I have worked with Clémentine Delambily, Hugo Martin and Léo Noël-Baron; all of them were brillant student helping during summers 2017 and 2018.
+
+In June 2019, I was member of the jury (president jury) at the defense of Samraa Alzubi. She defended her Master thesis in cybersecurity entitled _Black-Box Adversarial Reprogramming Attack Against Convolutional Neural Networks Using Genetic Algorithm_.
 
 # Teaching activities
 
