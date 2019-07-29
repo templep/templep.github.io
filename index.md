@@ -68,6 +68,16 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 # Publications
 
+* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel. [Empirical Assessment of Multimorphic Testing](https://ieeexplore.ieee.org/document/8755468). IEEE Transactions on Software Engineering (TSE) (to appear)
+
+* Paul Temple, Mathieu Acher, Gilles Perrouin, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Quality Assurance of Software Product Lines with Adversarial Configurations](). Software Product Line Conference (SPLC), Sep 2019, Paris, France
+
+* Paul Temple, Gilles Perrouin, Benoît Frénay, Pierre-Yves Schobbens. [Customizing Adversarial Machine Learning to Test Deep Learning Techniques](https://pure.unamur.be/ws/portalfiles/portal/39547657/Customizing_Adversarial_Machine_Learning_to_test_Deep_Learning_techniques.pdf). 1st Workshop on Deep Learning<=> Testing (co-located with ICSE'19), May 2019, Montréal, Canada
+
+* Paul Temple, Hugo MARTIN, Mathieu ACHER, Jean-Marc Jézéquel. [Applying Multimorphic Testing to Deep Learning Systems](). 1st Workshop on Deep Learning<=> Testing (co-located with ICSE'19), May 2019, Montréal, Canada
+
+* Benoit Amand, Maxime Cordy, Patrick Heymans, Mathieu Acher, Paul Temple, Jean-Marc Jézéquel. [Towards Learning-Aided Configuration in 3D Printing: Feasibility Study and Application to Defect Prediction](https://hal.inria.fr/hal-01990767/document). 13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), Feb 2019, Leuven, Belgium
+
 * Paul Temple, Mathieu Acher, Jean-Marc Jézéquel. [Multimorphic Testing](https://hal.inria.fr/hal-01730163/). 40th International Conference on Software Engineering (ICSE), May 2018, Gothenburg, Sweden  (*Poster Session*)
 
 * Jabier Martinez, Jean-Sébasten Sottet, Alfonso Garcia Frey, Tegawendé Bissyandé, Tewfik Ziadi, Jacques Klein, Paul Temple, Mathieu Acher, Yves Le Traon. [Towards Estimating and Predicting User Perception on Software Product Variants](http://hal.upmc.fr/hal-01720519). International Conference on Software Reuse (ICSR), May 2018, Madrid, Spain
