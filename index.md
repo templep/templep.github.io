@@ -134,6 +134,9 @@ During my PhD, I have worked with Clémentine Delambily, Hugo Martin and Léo No
 
 In June 2019, I was member of the jury (president jury) at the defense of Samraa Alzubi. She defended her Master thesis in cybersecurity entitled _Black-Box Adversarial Reprogramming Attack Against Convolutional Neural Networks Using Genetic Algorithm_.
 
+The same year, I was also involved in the jury evaluating the work of \textit{Simon Genin} to obtain his Master's degree.
+This Master's thesis was supervised by Prof. Benoît Frénay and Prof. Benoît Vanderose.
+
 # Teaching activities
 
 during the universitary year *2019-2020*:
