@@ -86,7 +86,7 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 * Paul Temple, Gilles Perrouin, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. Empirical Assessment of Generating Adversarial Configurations for Software Product Lines. EMSE Special Issue (under review)
 
-* Géraldin Nanfack, Paul Temple, and Benoit Frénay. Constraint Enforcement on Decision Trees: a Survey. ACM Surveys (under review)
+* Géraldin Nanfack, Paul Temple, and Benoit Frénay. Constraint Enforcement on Decision Trees: a Survey. ACM Computing Surveys (under review)
 
 * Paul Temple, Mathieu Acher, Gilles Perrouin, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Quality Assurance of Software Product Lines with Adversarial Configurations](). Software Product Line Conference (SPLC), Sep 2019, Paris, France
 
