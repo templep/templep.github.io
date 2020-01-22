@@ -1,7 +1,7 @@
 # Presentation
 
 I am currently a post-doc at the PReCISE research center at the University of Namur (UNamur).
-I am working on the VeryLearn EoS project with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
+I am working on the EoS (Excellence of Science) VeriLearn project with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
 
 Previously, I obtained my PhD working at Université de Rennes and IRISA lab in the [DiverSE](http://diverse.irisa.fr/) working group in Rennes (France).
 My supervisors were [Mathieu Acher](http://www.mathieuacher.com/) and [Jean-Marc JEZEQUEL](http://people.irisa.fr/Jean-Marc.Jezequel/).
@@ -16,7 +16,7 @@ During the last year of ESIR, I also graduated from the University of Rennes 1 w
 Thus, I have a strong background in Data Image Processing (as well as Machine Learning) on one hand and in Softwarer Engineering thanks to my PhD on the other hand.
 
 ## Topics of interest
-* Softw&are Product Line
+* Software Product Line
 * Software Variability
 * Software Testing
 * Machine Learning
@@ -26,6 +26,19 @@ Thus, I have a strong background in Data Image Processing (as well as Machine Le
 
 
 # Research Activities
+
+## EoS VeriLearn Project
+The EoS VeriLearn Project is a blue sky project trying to think about how Machine Learning and other Artificial Intelligence techniques can be tested and/or verified.
+Deep Learning is not considered for now in this context.
+The project gathers different university of Belgium including universities from Brussels, Leuven and Namur.
+Different aspects of testing, verifications as well as ML are tackled in this project.
+I am more particularly involved in the testing research direction, including performance aspects; but also, related to my PhD
+how to mitigate risks when using ML prediction models in the context of Software Product Lines.
+This work is mainly done in Namur with Patrick Heymans and Gilles Perrouin.
+I am also involved in the ethics work package in which we try to evaluate risks and consequences of blindly using systems based on ML in critical contexts such as justice or security.
+This work is done in collaboration with the University of Leuven (more particularly Pieter Delobelle and Bettina Berendt) and the University of Namur.
+Finally, I help also in trying to enforce domain-knowledge constraints directly in ML classifier implementations to make as efficient as possible but explainable and understandable for domain experts.
+This work is currently done with Geraldin Nanfack and Benoit Frenay from the University of Namur.
 
 ## PhD topic
 title: __Investigate the Matrix: Leveraging Variability to Specialize Software and Test Suites__
@@ -69,7 +82,11 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 # Publications
 
-* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel. [Empirical Assessment of Multimorphic Testing](https://ieeexplore.ieee.org/document/8755468). IEEE Transactions on Software Engineering (TSE) (to appear)
+* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel. [Empirical Assessment of Multimorphic Testing](https://ieeexplore.ieee.org/document/8755468). IEEE Transactions on Software Engineering (TSE)
+
+* Paul Temple, Gilles Perrouin, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. Empirical Assessment of Generating Adversarial Configurations for Software Product Lines. EMSE Special Issue (under review)
+
+* Géraldin Nanfack, Paul Temple, and Benoit Frénay. Constraint Enforcement on Decision Trees: a Survey. ACM Surveys (under review)
 
 * Paul Temple, Mathieu Acher, Gilles Perrouin, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Quality Assurance of Software Product Lines with Adversarial Configurations](). Software Product Line Conference (SPLC), Sep 2019, Paris, France
 
@@ -95,10 +112,9 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 # Program Comitees
 
-I was PC member of the [1st Workshop on Computational Intelligence for Software Product Lines (CI4SPL)](https://ci4spl.github.io/) which will be held in conjunction with SPLC2018 in September 2018 in Gothenburg, Sweden.
+I was PC member of the [SPLC'19](https://splc2019.net/) Artifacts Track organized in Paris from the 9th to the 13th of September 2019.
 
-I am PC member of the [SPLC'19](https://splc2019.net/) Artifacts Track organized in Paris from the 9th to the 13th of September 2019.
-Do not hesitate to look at the [Call for Papers](https://splc2019.net/call-for-papers/call-for-research-papers/)
+I was PC member of the [1st Workshop on Computational Intelligence for Software Product Lines (CI4SPL)](https://ci4spl.github.io/) which will be held in conjunction with SPLC2018 in September 2018 in Gothenburg, Sweden.
 
 # Review activities
 I made reviews for:
@@ -121,7 +137,7 @@ In June 2019, I was member of the jury (president jury) at the defense of Samraa
 # Teaching activities
 
 during the universitary year *2019-2020*:
-   * Mathematics for Computer Science (Tutoring 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students
+   * Mathematics for Computer Science (Tutoring 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
 
 during the universitary year *2017-2018*:
    * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
