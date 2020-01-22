@@ -125,7 +125,7 @@ I made reviews for:
  * SEAMS (for Prof. Jean-Marc Jézéquel)
  * ESEM (for Dr. Mathieu Acher)
  
- In 2019, I received a Best Reviewer Award from SoSyM that recognizes me as one of the [“Top 1% of SoSyM Reviewers](http://www.sosym.org/awards/).
+ In 2019, I received a Best Reviewer Award from SoSyM that recognizes me as one of the ["Top 1% of SoSyM Reviewers"](http://www.sosym.org/awards/).
  
 # Supervision & Jury Member
 
