@@ -16,10 +16,11 @@ During the last year of ESIR, I also graduated from the University of Rennes 1 w
 Thus, I have a strong background in Data Image Processing (as well as Machine Learning) on one hand and in Softwarer Engineering thanks to my PhD on the other hand.
 
 ## Topics of interest
-* Computer Vision
-* Software Testing
+* Softw&are Product Line
 * Software Variability
+* Software Testing
 * Machine Learning
+* Computer Vision
 * Data Image Processing (as well as Video Processing)
 * Computer Graphics
 
@@ -100,13 +101,15 @@ I am PC member of the [SPLC'19](https://splc2019.net/) Artifacts Track organized
 Do not hesitate to look at the [Call for Papers](https://splc2019.net/call-for-papers/call-for-research-papers/)
 
 # Review activities
-I had already reviewed papers for:
+I made reviews for:
  * TSE (for Dr. Gilles Perrouin)
  * JSS
  * SoSyM
  * IEEE T-IFS
  * SEAMS (for Prof. Jean-Marc Jézéquel)
  * ESEM (for Dr. Mathieu Acher)
+ 
+ In 2019, I received a Best Reviewwer Award from SoSym that recognizes me as one of the [“Top 1% of SoSyM Reviewers”] (http://www.sosym.org/awards/)
  
 # Supervision & Jury Member
 
@@ -117,7 +120,10 @@ In June 2019, I was member of the jury (president jury) at the defense of Samraa
 
 # Teaching activities
 
-during the universitary year *2017-2108*:
+during the universitary year *2019-2020*:
+   * Mathematics for Computer Science (Tutoring 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students
+
+during the universitary year *2017-2018*:
    * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
    * Modélisation & Développement Industriel or MDI (Session Labs 12h + Tutoring 10h) : UML, Design Pattern, Basics of software testing and Good Practices in the modeling of a system to ESIR2 students (equivalent M1 // first year of master's degree)
    * Software Architecture (Session labs -> 12h) : introduction to containers, component based architecture to ESIR2 students (equivalent M1 // first year of master's degree)
