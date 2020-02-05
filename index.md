@@ -132,9 +132,9 @@ I made reviews for:
 I am currently helping in the supervision of two PhD students: Géraldin Nanfack (PhD student under the supervision of Prof. Benoît Frénay) and Sophie Fortz (PhD student under the supervision of Dr. Gilles Perrouin).
 During my PhD, I have worked with Clémentine Delambily, Hugo Martin and Léo Noël-Baron; all of them were brillant student helping during summers 2017 and 2018.
 
-In June 2019, I was member of the jury (president jury) at the defense of Samraa Alzubi. She defended her Master thesis in cybersecurity entitled _Black-Box Adversarial Reprogramming Attack Against Convolutional Neural Networks Using Genetic Algorithm_.
+In June 2019, I was member of the jury (president jury) at the defense of _Samraa Alzubi_. She defended her Master thesis in cybersecurity entitled _Black-Box Adversarial Reprogramming Attack Against Convolutional Neural Networks Using Genetic Algorithm_.
 
-The same year, I was also involved in the jury evaluating the work of \textit{Simon Genin} to obtain his Master's degree.
+The same year, I was also involved in the jury evaluating the work of _Simon Genin_ to obtain his Master's degree.
 This Master's thesis was supervised by Prof. Benoît Frénay and Prof. Benoît Vanderose.
 
 # Teaching activities
