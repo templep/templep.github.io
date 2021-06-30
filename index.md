@@ -16,10 +16,10 @@ During the last year of ESIR, I also graduated from the University of Rennes 1 w
 Thus, I have a strong background in Data Image Processing (as well as Machine Learning) on one hand and in Softwarer Engineering thanks to my PhD on the other hand.
 
 ## Topics of interest
-* Software Product Line
+As my experience in research grows and I explore new ideas, my topics of interest also grow larger and larger... Here is a list, but it is clearly opened to include more topics:
 * Software Variability
-* Software Testing
-* Machine Learning
+* Software Testing and more precisely Performance Testing
+* Machine Learning also including Adversarial Machine Learning and more recently Ethics around the use of ML
 * Computer Vision
 * Data Image Processing (as well as Video Processing)
 * Computer Graphics
@@ -84,11 +84,19 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 * Paul Temple, Mathieu Acher, Jean-Marc Jézéquel. [Empirical Assessment of Multimorphic Testing](https://ieeexplore.ieee.org/document/8755468). IEEE Transactions on Software Engineering (TSE)
 
-* Paul Temple, Gilles Perrouin, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. Empirical Assessment of Generating Adversarial Configurations for Software Product Lines. EMSE Special Issue (under review)
+* Paul Temple, Gilles Perrouin, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Empirical Assessment of Generating Adversarial Configurations for Software Product Lines](https://link.springer.com/article/10.1007/s10664-020-09915-7). EMSE Special Issue
 
 * Géraldin Nanfack, Paul Temple, and Benoit Frénay. Constraint Enforcement on Decision Trees: a Survey. ACM Computing Surveys (under review)
 
-* Paul Temple, Mathieu Acher, Gilles Perrouin, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Quality Assurance of Software Product Lines with Adversarial Configurations](). Software Product Line Conference (SPLC), Sep 2019, Paris, France
+* Pieter Delobelle, Paul Temple, Gilles Perrouin, Benoît Frénay, Patrick Heymans, and Bettina Berendt. [Ethical Adversaries: Towards Mitigating Unfairness with Adversarial Machine Learning](https://dl.acm.org/doi/abs/10.1145/3468507.3468513). ACM SIGKDD Explorations Newsletter, June 2021
+
+* Géraldin Nanfack, Paul Temple, and Benoit Frénay. Global Explanations with Decision Rules: a Co-learning Approach. Conference on Uncertainty in Artificial Intelligence (UAI), July 2021, Online (to appear)
+
+* Juliana Alves Pereira, Hugo Martin, Mathieu Acher, Paul Temple. [Machine Learning and Configurable Systems: A Gentle Introduction](https://hal.inria.fr/hal-03020125/document). (Online) Software Product Line Conference (SPLC), Sep 2020, Montreal, Canada (*Tutorial Session*)
+
+* Paul Temple, Mathieu Acher, Gilles Perrouin, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Quality Assurance of Software Product Lines with Adversarial Configurations](https://pure.unamur.be/ws/portalfiles/portal/52874299/Adversarial_Constraints_for_Variability_Models_SPLC2019.pdf). Software Product Line Conference (SPLC), Sep 2019, Paris, France
+
+* Hugo Martin, Juliana Alves Pereira, Mathieu Acher, Paul Temple. [Machine Learning and Configurable Systems: A Gentle Introduction](https://hal.inria.fr/hal-02287459/document). Software Product Line Conference (SPLC), Sep 2019, Paris, France (*Tutorial Session*)
 
 * Paul Temple, Gilles Perrouin, Benoît Frénay, Pierre-Yves Schobbens. [Customizing Adversarial Machine Learning to Test Deep Learning Techniques](https://pure.unamur.be/ws/portalfiles/portal/39547657/Customizing_Adversarial_Machine_Learning_to_test_Deep_Learning_techniques.pdf). 1st Workshop on Deep Learning<=> Testing (co-located with ICSE'19), May 2019, Montréal, Canada
 
@@ -125,7 +133,7 @@ I made reviews for:
  * SEAMS (for Prof. Jean-Marc Jézéquel)
  * ESEM (for Dr. Mathieu Acher)
  
- In 2019, I received a Best Reviewer Award from SoSyM that recognizes me as one of the ["Top 1% of SoSyM Reviewers"](http://www.sosym.org/awards/).
+ In 2019, I received a Best Reviewer Award from SoSyM that recognizes me as one of the ["Top 1% of SoSyM Reviewers"](https://www.sosym.org/reviewer_awards/).
  
 # Supervision & Jury Member
 
