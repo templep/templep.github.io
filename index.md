@@ -17,9 +17,9 @@ Thus, I have a strong background in Data Image Processing (as well as Machine Le
 
 ## Topics of interest
 As my experience in research grows and I explore new ideas, my topics of interest also grow larger and larger... Here is a list, but it is clearly opened to include more topics:
-* Software Variability
-* Software Testing and more precisely Performance Testing
-* Machine Learning also including Adversarial Machine Learning and more recently Ethics around the use of ML
+* __Software Variability__
+* Software Testing and more precisely __Performance Testing__
+* Machine Learning also including __Adversarial Machine Learning__ and more recently Ethics around the use of ML
 * Computer Vision
 * Data Image Processing (as well as Video Processing)
 * Computer Graphics
@@ -82,45 +82,47 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 # Publications
 
-* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel. [Empirical Assessment of Multimorphic Testing](https://ieeexplore.ieee.org/document/8755468). IEEE Transactions on Software Engineering (TSE)
+* **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel. [Empirical Assessment of Multimorphic Testing](https://ieeexplore.ieee.org/document/8755468). IEEE Transactions on Software Engineering (TSE)
 
-* Paul Temple, Gilles Perrouin, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Empirical Assessment of Generating Adversarial Configurations for Software Product Lines](https://link.springer.com/article/10.1007/s10664-020-09915-7). EMSE Special Issue
+* **Paul Temple**, Gilles Perrouin, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Empirical Assessment of Generating Adversarial Configurations for Software Product Lines](https://link.springer.com/article/10.1007/s10664-020-09915-7). EMSE Special Issue
 
-* Géraldin Nanfack, Paul Temple, and Benoit Frénay. Constraint Enforcement on Decision Trees: a Survey. ACM Computing Surveys (under review)
+* Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. Constraint Enforcement on Decision Trees: a Survey. ACM Computing Surveys (under review)
 
-* Pieter Delobelle, Paul Temple, Gilles Perrouin, Benoît Frénay, Patrick Heymans, and Bettina Berendt. [Ethical Adversaries: Towards Mitigating Unfairness with Adversarial Machine Learning](https://dl.acm.org/doi/abs/10.1145/3468507.3468513). ACM SIGKDD Explorations Newsletter, June 2021
+* Pieter Delobelle, **Paul Temple**, Gilles Perrouin, Benoît Frénay, Patrick Heymans, and Bettina Berendt. [Ethical Adversaries: Towards Mitigating Unfairness with Adversarial Machine Learning](https://dl.acm.org/doi/abs/10.1145/3468507.3468513). ACM SIGKDD Explorations Newsletter, June 2021
 
-* Géraldin Nanfack, Paul Temple, and Benoit Frénay. Global Explanations with Decision Rules: a Co-learning Approach. Conference on Uncertainty in Artificial Intelligence (UAI), July 2021, Online (to appear)
+* Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. Global Explanations with Decision Rules: a Co-learning Approach. Conference on Uncertainty in Artificial Intelligence (UAI), July 2021, Online (to appear)
 
-* Juliana Alves Pereira, Hugo Martin, Mathieu Acher, Paul Temple. [Machine Learning and Configurable Systems: A Gentle Introduction](https://hal.inria.fr/hal-03020125/document). (Online) Software Product Line Conference (SPLC), Sep 2020, Montreal, Canada (*Tutorial Session*)
+* Juliana Alves Pereira, Hugo Martin, Mathieu Acher, **Paul Temple**. [Machine Learning and Configurable Systems: A Gentle Introduction](https://hal.inria.fr/hal-03020125/document). (Online) Software Product Line Conference (SPLC), Sep 2020, Montreal, Canada (*Tutorial Session*)
 
-* Paul Temple, Mathieu Acher, Gilles Perrouin, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Quality Assurance of Software Product Lines with Adversarial Configurations](https://pure.unamur.be/ws/portalfiles/portal/52874299/Adversarial_Constraints_for_Variability_Models_SPLC2019.pdf). Software Product Line Conference (SPLC), Sep 2019, Paris, France
+* **Paul Temple**, Mathieu Acher, Gilles Perrouin, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Quality Assurance of Software Product Lines with Adversarial Configurations](https://pure.unamur.be/ws/portalfiles/portal/52874299/Adversarial_Constraints_for_Variability_Models_SPLC2019.pdf). Software Product Line Conference (SPLC), Sep 2019, Paris, France
 
-* Hugo Martin, Juliana Alves Pereira, Mathieu Acher, Paul Temple. [Machine Learning and Configurable Systems: A Gentle Introduction](https://hal.inria.fr/hal-02287459/document). Software Product Line Conference (SPLC), Sep 2019, Paris, France (*Tutorial Session*)
+* Hugo Martin, Juliana Alves Pereira, Mathieu Acher, **Paul Temple**. [Machine Learning and Configurable Systems: A Gentle Introduction](https://hal.inria.fr/hal-02287459/document). Software Product Line Conference (SPLC), Sep 2019, Paris, France (*Tutorial Session*)
 
-* Paul Temple, Gilles Perrouin, Benoît Frénay, Pierre-Yves Schobbens. [Customizing Adversarial Machine Learning to Test Deep Learning Techniques](https://pure.unamur.be/ws/portalfiles/portal/39547657/Customizing_Adversarial_Machine_Learning_to_test_Deep_Learning_techniques.pdf). 1st Workshop on Deep Learning<=> Testing (co-located with ICSE'19), May 2019, Montréal, Canada
+* **Paul Temple**, Gilles Perrouin, Benoît Frénay, Pierre-Yves Schobbens. [Customizing Adversarial Machine Learning to Test Deep Learning Techniques](https://pure.unamur.be/ws/portalfiles/portal/39547657/Customizing_Adversarial_Machine_Learning_to_test_Deep_Learning_techniques.pdf). 1st Workshop on Deep Learning<=> Testing (co-located with ICSE'19), May 2019, Montréal, Canada
 
-* Paul Temple, Hugo MARTIN, Mathieu ACHER, Jean-Marc Jézéquel. [Applying Multimorphic Testing to Deep Learning Systems](). 1st Workshop on Deep Learning<=> Testing (co-located with ICSE'19), May 2019, Montréal, Canada
+* **Paul Temple**, Hugo MARTIN, Mathieu ACHER, Jean-Marc Jézéquel. [Applying Multimorphic Testing to Deep Learning Systems](). 1st Workshop on Deep Learning<=> Testing (co-located with ICSE'19), May 2019, Montréal, Canada
 
-* Benoit Amand, Maxime Cordy, Patrick Heymans, Mathieu Acher, Paul Temple, Jean-Marc Jézéquel. [Towards Learning-Aided Configuration in 3D Printing: Feasibility Study and Application to Defect Prediction](https://hal.inria.fr/hal-01990767/document). 13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), Feb 2019, Leuven, Belgium
+* Benoit Amand, Maxime Cordy, Patrick Heymans, Mathieu Acher, **Paul Temple**, Jean-Marc Jézéquel. [Towards Learning-Aided Configuration in 3D Printing: Feasibility Study and Application to Defect Prediction](https://hal.inria.fr/hal-01990767/document). 13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), Feb 2019, Leuven, Belgium
 
-* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel. [Multimorphic Testing](https://hal.inria.fr/hal-01730163/). 40th International Conference on Software Engineering (ICSE), May 2018, Gothenburg, Sweden  (*Poster Session*)
+* **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel. [Multimorphic Testing](https://hal.inria.fr/hal-01730163/). 40th International Conference on Software Engineering (ICSE), May 2018, Gothenburg, Sweden  (*Poster Session*)
 
-* Jabier Martinez, Jean-Sébasten Sottet, Alfonso Garcia Frey, Tegawendé Bissyandé, Tewfik Ziadi, Jacques Klein, Paul Temple, Mathieu Acher, Yves Le Traon. [Towards Estimating and Predicting User Perception on Software Product Variants](http://hal.upmc.fr/hal-01720519). International Conference on Software Reuse (ICSR), May 2018, Madrid, Spain
+* Jabier Martinez, Jean-Sébasten Sottet, Alfonso Garcia Frey, Tegawendé Bissyandé, Tewfik Ziadi, Jacques Klein, **Paul Temple**, Mathieu Acher, Yves Le Traon. [Towards Estimating and Predicting User Perception on Software Product Variants](http://hal.upmc.fr/hal-01720519). International Conference on Software Reuse (ICSR), May 2018, Madrid, Spain
 
-* Mathieu Acher, Paul Temple, Jean-Marc Jézéquel, José Angel Galindo Duarte, Jabier Martinez, Tewfik Ziadi. [VaryLaTeX: Learning Paper Variants That Meet Constraints](https://hal.inria.fr/hal-01659161). 12th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), Feb 2018, Madrid, Spain
+* Mathieu Acher, **Paul Temple**, Jean-Marc Jézéquel, José Angel Galindo Duarte, Jabier Martinez, Tewfik Ziadi. [VaryLaTeX: Learning Paper Variants That Meet Constraints](https://hal.inria.fr/hal-01659161). 12th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), Feb 2018, Madrid, Spain
 
-* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel, Olivier Barias. [Learning Contextual-Variability Models](http://resolver.ebscohost.com/openurl?sid=google&auinit=P&aulast=Temple&atitle=Learning+Contextual-Variability+Models&id=doi%3a10.1109%2fMS.2017.4121211&site=ftf-live). IEEE Software Special Issue on Context Aware and Smart Healthcare, Novembre-Décembre 2017
+* **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel, Olivier Barias. [Learning Contextual-Variability Models](http://resolver.ebscohost.com/openurl?sid=google&auinit=P&aulast=Temple&atitle=Learning+Contextual-Variability+Models&id=doi%3a10.1109%2fMS.2017.4121211&site=ftf-live). IEEE Software Special Issue on Context Aware and Smart Healthcare, Novembre-Décembre 2017
 
-* Paul Temple, José Angel Galindo Duarte, Mathieu Acher, Jean-Marc Jézéquel. [Using Machine Learning to Infer Constraints for Product Lines](https://hal.inria.fr/hal-01323446). Software Product Line Conference (SPLC), Sep 2016, Beijing, China
+* **Paul Temple**, José Angel Galindo Duarte, Mathieu Acher, Jean-Marc Jézéquel. [Using Machine Learning to Infer Constraints for Product Lines](https://hal.inria.fr/hal-01323446). Software Product Line Conference (SPLC), Sep 2016, Beijing, China
 
-* Paul Temple, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Adversarial Configurations for Software Product Lines](https://arxiv.org/abs/1805.12021)
+* **Paul Temple**, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Adversarial Configurations for Software Product Lines](https://arxiv.org/abs/1805.12021)
 
-* Paul Temple, Mathieu Acher, Jean-Marc Jézéquel, Léo Noel-Baron, José Galindo. [Learning-Based Performance Specialization of Configurable Systems](https://hal.inria.fr/hal-01467299)
+* **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel, Léo Noel-Baron, José Galindo. [Learning-Based Performance Specialization of Configurable Systems](https://hal.inria.fr/hal-01467299)
 
 # Program Comitees
 
-I was PC member of the [SPLC'19](https://splc2019.net/) Artifacts Track organized in Paris from the 9th to the 13th of September 2019.
+I was PC member of the [SPLC'19](http://kishi-lab.sakura.ne.jp/splc2019/call-for-papers/call-for-research-papers/) _Artifacts Track_ organized in Paris from the 9th to the 13th of September 2019.
+In 2020, I was PC member of the _Artifact Track_ but also the _Challenge Solution Track_ of [SPLC'20](https://splc2020.net/) organized in Montreal, Canada but held online due to the Covid19 pandemic situation from the 19th to the 23th of October 2020.
+In 2021, I serve as a [co-chair](https://splc2021.net/committees/organization) of the complete _Solution Track_ (evaluation of new cases but also solutions) at [SPLC'21](https://splc2021.net/) organized in Leicester, England, UK from the 6th to the 11th of September 2021. 
 
 I was PC member of the [1st Workshop on Computational Intelligence for Software Product Lines (CI4SPL)](https://ci4spl.github.io/) which will be held in conjunction with SPLC2018 in September 2018 in Gothenburg, Sweden.
 
