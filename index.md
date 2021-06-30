@@ -73,8 +73,8 @@ In the end, assessing the quality of tests might help in detecting bugs, reducin
 
 ## Master's internship
 
-My internship took place in the TEXMEX (now [LinkMedia](http://www-linkmedia.irisa.fr/) )working group under the supervision of [Ewa Kijak](http://www.irisa.fr/texmex/Ewa.Kijak/index_en.php) and [Laurent Amsaleg](http://people.rennes.inria.fr/Laurent.Amsaleg/).
-The topic of this internship was the _security of Machine Learning processes applied to multimedia content_ which followed the work of [Thanh-Toan Do](https://sites.google.com/site/thanhtoando2212/) and his PhD.
+My internship took place in the TEXMEX (now [LinkMedia](http://www-linkmedia.irisa.fr/) )working group under the supervision of [Ewa Kijak](http://people.irisa.fr/Ewa.Kijak/) and [Laurent Amsaleg](http://people.rennes.inria.fr/Laurent.Amsaleg/).
+The topic of this internship was the _security of Machine Learning processes applied to multimedia content_ which followed the work of Thanh-Toan Do and his PhD.
 The goal of this internship was to have a better understanding of how Machine Learning techniques can be influenced in the establishment of their separating functions depending on data that they have seen.
 An other concern was how sensitive the establishment of separating functions is w.r.t. the distribution of data points.
 This topic is very close to the work conducted by [Battista Biggio](https://pralab.diee.unica.it/en/BattistaBiggio) and the [PRALab](http://pralab.diee.unica.it/en) in Cagliari.
@@ -124,22 +124,25 @@ I was PC member of the [SPLC'19](http://kishi-lab.sakura.ne.jp/splc2019/call-for
 In 2020, I was PC member of the _Artifact Track_ but also the _Challenge Solution Track_ of [SPLC'20](https://splc2020.net/) organized in Montreal, Canada but held online due to the Covid19 pandemic situation from the 19th to the 23th of October 2020.
 In 2021, I serve as a [co-chair](https://splc2021.net/committees/organization) of the complete _Solution Track_ (evaluation of new cases but also solutions) at [SPLC'21](https://splc2021.net/) organized in Leicester, England, UK from the 6th to the 11th of September 2021. 
 
-I was PC member of the [1st Workshop on Computational Intelligence for Software Product Lines (CI4SPL)](https://ci4spl.github.io/) which will be held in conjunction with SPLC2018 in September 2018 in Gothenburg, Sweden.
+I have also served as a PC member for the FAT* 2020 conference (now named FAccT) and MaLTeSQuE 2021.
 
 # Review activities
 I made reviews for:
  * TSE (for Dr. Gilles Perrouin)
+ * TOSEM
  * JSS
  * SoSyM
- * IEEE T-IFS
+ * IEEE Trans.-IFS
+ * IEEE Trans. on Reliability
  * SEAMS (for Prof. Jean-Marc Jézéquel)
  * ESEM (for Dr. Mathieu Acher)
  
  In 2019, I received a Best Reviewer Award from SoSyM that recognizes me as one of the ["Top 1% of SoSyM Reviewers"](https://www.sosym.org/reviewer_awards/).
+ I am now on the [distinguished TOSEM reviewers board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board).
  
 # Supervision & Jury Member
 
-I am currently helping in the supervision of two PhD students: Géraldin Nanfack (PhD student under the supervision of Prof. Benoît Frénay) and Sophie Fortz (PhD student under the supervision of Dr. Gilles Perrouin).
+I am currently helping in the supervision of three PhD students: Géraldin Nanfack (PhD student under the supervision of Prof. Benoît Frénay), Sophie Fortz (PhD student under the supervision of Dr. Gilles Perrouin), and Antoine Gratia that made a Master's thesis on modeling the variability of CNN architectures and that is now starting a PhD at the university of Namur under the supervision of Dr. Gilles Perrouin.
 During my PhD, I have worked with Clémentine Delambily, Hugo Martin and Léo Noël-Baron; all of them were brillant student helping during summers 2017 and 2018.
 
 In June 2019, I was member of the jury (president jury) at the defense of _Samraa Alzubi_. She defended her Master thesis in cybersecurity entitled _Black-Box Adversarial Reprogramming Attack Against Convolutional Neural Networks Using Genetic Algorithm_.
@@ -147,10 +150,16 @@ In June 2019, I was member of the jury (president jury) at the defense of _Samra
 The same year, I was also involved in the jury evaluating the work of _Simon Genin_ to obtain his Master's degree.
 This Master's thesis was supervised by Prof. Benoît Frénay and Prof. Benoît Vanderose.
 
+Since then, I am involved in the jury of 2 masters students at the university of Namur every year. These juries involve: Céline Delhaye, Hugo Devillers, Piotr Banach, Audrey Gilson, Olivier Chevalier and Oliver Welcomme.
+
 # Teaching activities
 
+during the universitary year *2020-2021*:
+   * Mathematics for Computer Science (Tutoring about 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
+   * Software Testing (Session labs and lectures for a total of 15h): supervised by Dr. Gilles Perrouin, we teach the foundamentals of software testing and more advanced techniques (mutation testing, metamorphic testing, fuzzy testing, test smells, etc.); for 1st year Masters students from the computer science faculty of the University of Namur, Belgium
+
 during the universitary year *2019-2020*:
-   * Mathematics for Computer Science (Tutoring 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
+   * Mathematics for Computer Science (Tutoring about 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
 
 during the universitary year *2017-2018*:
    * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
