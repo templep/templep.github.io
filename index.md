@@ -122,7 +122,7 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 I was PC member of the [SPLC'19](http://kishi-lab.sakura.ne.jp/splc2019/call-for-papers/call-for-research-papers/) _Artifacts Track_ organized in Paris from the 9th to the 13th of September 2019.
 In 2020, I was PC member of the _Artifact Track_ but also the _Challenge Solution Track_ of [SPLC'20](https://splc2020.net/) organized in Montreal, Canada but held online due to the Covid19 pandemic situation from the 19th to the 23th of October 2020.
-In 2021, I serve as a [co-chair](https://splc2021.net/committees/organization) of the complete _Solution Track_ (evaluation of new cases but also solutions) at [SPLC'21](https://splc2021.net/) organized in Leicester, England, UK from the 6th to the 11th of September 2021. 
+In 2021, I serve as a [co-chair](https://splc2021.net/committees/organization) of the complete _Challenge Track_ (evaluation of new cases but also solutions) at [SPLC'21](https://splc2021.net/) organized in Leicester, England, UK from the 6th to the 11th of September 2021. 
 
 I have also served as a PC member for the FAT* 2020 conference (now named FAccT) and MaLTeSQuE 2021.
 
