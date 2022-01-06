@@ -142,8 +142,8 @@ I made reviews for:
  
 # Supervision & Jury Member
 
-I am currently helping in the supervision of three PhD students: Géraldin Nanfack (PhD student under the supervision of Prof. Benoît Frénay), Sophie Fortz (PhD student under the supervision of Dr. Gilles Perrouin), and Antoine Gratia that made a Master's thesis on modeling the variability of CNN architectures and that is now starting a PhD at the university of Namur under the supervision of Dr. Gilles Perrouin.
-During my PhD, I have worked with Clémentine Delambily, Hugo Martin and Léo Noël-Baron; all of them were brillant student helping during summers 2017 and 2018.
+I am currently helping in the supervision of three PhD students: *Géraldin Nanfack* (PhD student under the supervision of Prof. Benoît Frénay), *Sophie Fortz* (PhD student under the supervision of Dr. Gilles Perrouin), and *Antoine Gratia* that made a Master's thesis on modeling the variability of CNN architectures and that is now starting a PhD at the university of Namur under the supervision of Dr. Gilles Perrouin.
+During my PhD, I have worked with Clémentine Delambily, *Hugo Martin* and Léo Noël-Baron; all of them were brillant student helping during summers 2017 and 2018.
 
 In June 2019, I was member of the jury (president jury) at the defense of _Samraa Alzubi_. She defended her Master thesis in cybersecurity entitled _Black-Box Adversarial Reprogramming Attack Against Convolutional Neural Networks Using Genetic Algorithm_.
 
