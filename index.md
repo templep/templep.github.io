@@ -1,7 +1,7 @@
 # Presentation
 
 I am currently a post-doc at the PReCISE research center at the University of Namur (UNamur).
-I am working on the EoS (Excellence of Science) VeriLearn project with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
+I am working on the EoS (Excellence of Science) [VeriLearn project](https://eos.cs.kuleuven.be/content/home) with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
 
 Previously, I obtained my PhD working at Université de Rennes and IRISA lab in the [DiverSE](http://diverse.irisa.fr/) working group in Rennes (France).
 My supervisors were [Mathieu Acher](http://www.mathieuacher.com/) and [Jean-Marc JEZEQUEL](http://people.irisa.fr/Jean-Marc.Jezequel/).
@@ -84,13 +84,15 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 * **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel. [Empirical Assessment of Multimorphic Testing](https://ieeexplore.ieee.org/document/8755468). IEEE Transactions on Software Engineering (TSE)
 
-* **Paul Temple**, Gilles Perrouin, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Empirical Assessment of Generating Adversarial Configurations for Software Product Lines](https://link.springer.com/article/10.1007/s10664-020-09915-7). EMSE Special Issue
+* **Paul Temple**, Gilles Perrouin, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Empirical Assessment of Generating Adversarial Configurations for Software Product Lines](https://link.springer.com/article/10.1007/s10664-020-09915-7). EMSE 2020 Special Issue
 
 * Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. Constraint Enforcement on Decision Trees: a Survey. ACM Computing Surveys (under review)
 
 * Pieter Delobelle, **Paul Temple**, Gilles Perrouin, Benoît Frénay, Patrick Heymans, and Bettina Berendt. [Ethical Adversaries: Towards Mitigating Unfairness with Adversarial Machine Learning](https://dl.acm.org/doi/abs/10.1145/3468507.3468513). ACM SIGKDD Explorations Newsletter, June 2021
 
-* Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. Global Explanations with Decision Rules: a Co-learning Approach. Conference on Uncertainty in Artificial Intelligence (UAI), July 2021, Online (to appear)
+* Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. [Global Explanations with Decision Rules: a Co-learning Approach](https://proceedings.mlr.press/v161/nanfack21a/nanfack21a.pdf). Conference on Uncertainty in Artificial Intelligence (UAI), July 2021, Online
+
+* Sophie Fortz, **Paul Temple**, Xavier Devroey, Patrick Heymans, Gilles Perrouin. [VaryMinions: leveraging RNNs to identify variants in event logs](https://doi.org/10.1145/3472674.3473980). 5th International Workshop on Machine Learning Techniques for Software Quality Evolution (MaLTeSQUE), August 21, Online
 
 * Juliana Alves Pereira, Hugo Martin, Mathieu Acher, **Paul Temple**. [Machine Learning and Configurable Systems: A Gentle Introduction](https://hal.inria.fr/hal-03020125/document). (Online) Software Product Line Conference (SPLC), Sep 2020, Montreal, Canada (*Tutorial Session*)
 
@@ -122,6 +124,7 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 I was PC member of the [SPLC'19](http://kishi-lab.sakura.ne.jp/splc2019/call-for-papers/call-for-research-papers/) _Artifacts Track_ organized in Paris from the 9th to the 13th of September 2019.
 In 2020, I was PC member of the _Artifact Track_ but also the _Challenge Solution Track_ of [SPLC'20](https://splc2020.net/) organized in Montreal, Canada but held online due to the Covid19 pandemic situation from the 19th to the 23th of October 2020.
+
 In 2021, I serve as a [co-chair](https://splc2021.net/committees/organization) of the complete _Challenge Track_ (evaluation of new cases but also solutions) at [SPLC'21](https://splc2021.net/) organized in Leicester, England, UK from the 6th to the 11th of September 2021. 
 
 I have also served as a PC member for the FAT* 2020 conference (now named FAccT) and MaLTeSQuE 2021.
@@ -153,6 +156,11 @@ This Master's thesis was supervised by Prof. Benoît Frénay and Prof. Benoît V
 Since then, I am involved in the jury of 2 masters students at the university of Namur every year. These juries involve: Céline Delhaye, Hugo Devillers, Piotr Banach, Audrey Gilson, Olivier Chevalier and Oliver Welcomme.
 
 # Teaching activities
+
+
+during the universitary year *2021-2022*:
+   * Mathematics for Computer Science (Tutoring about 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
+   * Software Testing (Session labs and lectures for a total of 15h): supervised by Dr. Gilles Perrouin, we teach the foundamentals of software testing and more advanced techniques (mutation testing, metamorphic testing, fuzzy testing, test smells, etc.); for 1st year Masters students from the computer science faculty of the University of Namur, Belgium
 
 during the universitary year *2020-2021*:
    * Mathematics for Computer Science (Tutoring about 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
