@@ -164,7 +164,7 @@ during the universitary year *2021-2022*:
 
 during the universitary year *2020-2021*:
    * Mathematics for Computer Science (Tutoring about 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
-   * Software Testing (Session labs and lectures for a total of 15h): supervised by Dr. Gilles Perrouin, we teach the foundamentals of software testing and more advanced techniques (mutation testing, metamorphic testing, fuzzy testing, test smells, etc.); for 1st year Masters students from the computer science faculty of the University of Namur, Belgium
+   * Software Testing (Session labs and lectures for a total of 15h): supervised by Dr. Gilles Perrouin, we teach the foundamentals of software testing and more advanced techniques (mutation testing, metamorphic testing, fuzzy testing, test smells, etc.); for 1st year Masters students from the computer science faculty of the University of Namur, Belgium. I had the opportunity to give a 2-hour class about performance testing.
 
 during the universitary year *2019-2020*:
    * Mathematics for Computer Science (Tutoring about 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
