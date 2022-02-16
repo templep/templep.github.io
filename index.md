@@ -135,6 +135,7 @@ I made reviews for:
  * TOSEM
  * JSS
  * SoSyM
+ * IST
  * IEEE Trans.-IFS
  * IEEE Trans. on Reliability
  * SEAMS (for Prof. Jean-Marc Jézéquel)
