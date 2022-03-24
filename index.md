@@ -134,6 +134,7 @@ I made reviews for:
  * TSE (for Dr. Gilles Perrouin)
  * TOSEM
  * JSS
+ * JoT
  * SoSyM
  * IST
  * IEEE Trans.-IFS
