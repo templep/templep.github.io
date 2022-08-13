@@ -1,5 +1,7 @@
 # Presentation
 
+Starting September 2022, I will be an associate professor at the University of Rennes 1. I will back in the DiverSE team to tackle new challenges about software engineering, software testing, software variability and machine learning!
+
 I am currently a post-doc at the PReCISE research center at the University of Namur (UNamur).
 I am working on the EoS (Excellence of Science) [VeriLearn project](https://eos.cs.kuleuven.be/content/home) with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
 
