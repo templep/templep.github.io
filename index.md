@@ -1,6 +1,6 @@
 # Presentation
 
-Starting September 2022, I will be an associate professor at the University of Rennes 1. I will back in the DiverSE team to tackle new challenges about software engineering, software testing, software variability and machine learning!
+Since September 2022, I am an associate professor at the University of Rennes 1. I joined back the DiverSE team to tackle new challenges about software engineering, software testing, software variability and machine learning!
 
 I am currently a post-doc at the PReCISE research center at the University of Namur (UNamur).
 I am working on the EoS (Excellence of Science) [VeriLearn project](https://eos.cs.kuleuven.be/content/home) with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
@@ -194,4 +194,4 @@ during the universitary year *2015-2014* (at ENSICaen):
    * Databases (Session labs -> 32h): SQL databases and requests; PL/SQL to ENSICaen2 students (equivalent M1 // first year of master's degree)
    
 # Contact me
-* paul.temple@unamur.be
+* paul.temple@irisa.fr
