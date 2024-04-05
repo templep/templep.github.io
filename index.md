@@ -1,9 +1,9 @@
 # Presentation
 
-Since September 2022, I am an associate professor at the University of Rennes 1. I joined back the DiverSE team to tackle new challenges about software engineering, software testing, software variability and machine learning!
+Since September 2022, I am an associate professor at the University of Rennes. I joined the DiverSE team to tackle new challenges in software engineering, software testing, software variability, and machine learning!
 
-I am currently a post-doc at the PReCISE research center at the University of Namur (UNamur).
-I am working on the EoS (Excellence of Science) [VeriLearn project](https://eos.cs.kuleuven.be/content/home) with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
+From January 2019 to September 2022, I was a post-doc researcher at the Namur Digital Institute (NaDI) from the University of Namur (UNamur).
+I was involved in the EoS (Excellence of Science) [VeriLearn project](https://eos.cs.kuleuven.be/content/home) with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
 
 Previously, I obtained my PhD working at Université de Rennes and IRISA lab in the [DiverSE](http://diverse.irisa.fr/) working group in Rennes (France).
 My supervisors were [Mathieu Acher](http://www.mathieuacher.com/) and [Jean-Marc JEZEQUEL](http://people.irisa.fr/Jean-Marc.Jezequel/).
@@ -83,12 +83,23 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 
 # Publications
+* Sophie Fortz, **Paul Temple**, Xavier Devroey, and Gilles Perrouin. [Towards Feature-based ML-enabled Behaviour Location](https://dl.acm.org/doi/pdf/10.1145/3634713.3634734). VaMoS 2024
 
-* **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel. [Empirical Assessment of Multimorphic Testing](https://ieeexplore.ieee.org/document/8755468). IEEE Transactions on Software Engineering (TSE)
+* Luc Lesoil, Helge Spieker, Arnaud Gotlieb, Mathieu Acher, **Paul Temple**, Arnaud Blouin, and Jean-Marc Jézéquel. [Learning input-aware performance models of
+configurable systems: An empirical evaluation](https://hal.science/hal-04271476/document). JSS 2024
+
+* Sophie Fortz, **Paul Temple**, Xavier Devroey, Patrick Heymans, and Gilles Perrouin. [VaryMinions: Leveraging RNNs to Identify Variants in Variability-intensive Systems' Logs](https://hal.science/hal-04505454/). EMSE 2024
+
+* Camille Molinier, **Paul Temple**, and Gilles Perrouin. [FairPipes: Data Mutation Pipelines for Machine Learning Fairness](https://hal.science/hal-04440201v1/file/AST_2024___Fairness_Assessment_via_Mutation_Testing.pdf). AST 2024
+* Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. [Learning customised decision trees for domain-knowledge constraints](https://www.sciencedirect.com/science/article/pii/S0031320323003114). Pattern Recognition 2023
+
+* **Paul Temple** and Gilles Perrouin. [Explicit or Implicit? On Feature Engineering for ML-based Variability-intensive Systems](https://dl.acm.org/doi/pdf/10.1145/3571788.3571804). VaMoS 2023
+
+* **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel. [Empirical Assessment of Multimorphic Testing](https://ieeexplore.ieee.org/document/8755468). IEEE Transactions on Software Engineering (TSE) 2019
 
 * **Paul Temple**, Gilles Perrouin, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Empirical Assessment of Generating Adversarial Configurations for Software Product Lines](https://link.springer.com/article/10.1007/s10664-020-09915-7). EMSE 2020 Special Issue
 
-* Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. Constraint Enforcement on Decision Trees: a Survey. ACM Computing Surveys (under review)
+* Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. [Constraint Enforcement on Decision Trees: a Survey](https://dl.acm.org/doi/pdf/10.1145/3506734). ACM Computing Surveys 2022
 
 * Pieter Delobelle, **Paul Temple**, Gilles Perrouin, Benoît Frénay, Patrick Heymans, and Bettina Berendt. [Ethical Adversaries: Towards Mitigating Unfairness with Adversarial Machine Learning](https://dl.acm.org/doi/abs/10.1145/3468507.3468513). ACM SIGKDD Explorations Newsletter, June 2021
 
@@ -126,8 +137,10 @@ This topic is very close to the work conducted by [Battista Biggio](https://pral
 
 I was PC member of the [SPLC'19](http://kishi-lab.sakura.ne.jp/splc2019/call-for-papers/call-for-research-papers/) _Artifacts Track_ organized in Paris from the 9th to the 13th of September 2019.
 In 2020, I was PC member of the _Artifact Track_ but also the _Challenge Solution Track_ of [SPLC'20](https://splc2020.net/) organized in Montreal, Canada but held online due to the Covid19 pandemic situation from the 19th to the 23th of October 2020.
+In 2022, I was PC member for the _solution track_ of [SPLC'22](https://2022.splc.net/committees/program-committees/) held in Gratz and I served as a PC member for [VaMoS](https://vamos2022.isti.cnr.it/vamosorganisation). 
+In 2023, I was again PC member for the _solution track_ but also for the _research track_ at [SPLC'23](https://2023.splc.net/committees/program-committees/) held in Tokyo. I served also as a PC member for [ASE'23](https://conf.researchr.org/track/ase-2023/ase-2023-papers?) held in Luxembourg.
 
-In 2021, I serve as a [co-chair](https://splc2021.net/committees/organization) of the complete _Challenge Track_ (evaluation of new cases but also solutions) at [SPLC'21](https://splc2021.net/) organized in Leicester, England, UK from the 6th to the 11th of September 2021. 
+In 2021, I served as a [co-chair](https://splc2021.net/committees/organization) of the complete _Challenge Track_ (evaluation of new cases but also solutions) at [SPLC'21](https://splc2021.net/) organized in Leicester, England, UK from the 6th to the 11th of September 2021. 
 
 I have also served as a PC member for the FAT* 2020 conference (now named FAccT) and MaLTeSQuE 2021.
 
@@ -144,13 +157,16 @@ I made reviews for:
  * SEAMS (for Prof. Jean-Marc Jézéquel)
  * ESEM (for Dr. Mathieu Acher)
  
- In 2019, I received a Best Reviewer Award from SoSyM that recognizes me as one of the ["Top 1% of SoSyM Reviewers"](https://www.sosym.org/reviewer_awards/).
+ In 2019 and 2023, I received a Best Reviewer Award from SoSyM that recognizes me as one of the ["Top 1% of SoSyM Reviewers"](https://www.sosym.org/reviewer_awards/).
  I am now on the [distinguished TOSEM reviewers board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board).
  
 # Supervision & Jury Member
 
-I am currently helping in the supervision of three PhD students: *Géraldin Nanfack* (PhD student under the supervision of Prof. Benoît Frénay), *Sophie Fortz* (PhD student under the supervision of Dr. Gilles Perrouin), and *Antoine Gratia* that made a Master's thesis on modeling the variability of CNN architectures and that is now starting a PhD at the university of Namur under the supervision of Dr. Gilles Perrouin.
+I am currently helping in the supervision of *Antoine Gratia* who made a Master's thesis on modeling the variability of CNN architectures and that is now starting a PhD at the university of Namur under the supervision of Dr. Gilles Perrouin and Prof. Pierre-Yves Schobbens.
+During my post-doc, I also supervised two other PhD students: *Géraldin Nanfack* (PhD student under the supervision of Prof. Benoît Frénay) and *Sophie Fortz* (PhD student under the supervision of Dr. Gilles Perrouin).
+
 During my PhD, I have worked with Clémentine Delambily, *Hugo Martin* and Léo Noël-Baron; all of them were brillant student helping during summers 2017 and 2018.
+In 2023, I supervised *Camille Molinier* who performed his internship at the University of Namur under the supervision of Dr. Gilles Perrouin.
 
 In June 2019, I was member of the jury (president jury) at the defense of _Samraa Alzubi_. She defended her Master thesis in cybersecurity entitled _Black-Box Adversarial Reprogramming Attack Against Convolutional Neural Networks Using Genetic Algorithm_.
 
@@ -160,7 +176,15 @@ This Master's thesis was supervised by Prof. Benoît Frénay and Prof. Benoît V
 Since then, I am involved in the jury of 2 masters students at the university of Namur every year. These juries involve: Céline Delhaye, Hugo Devillers, Piotr Banach, Audrey Gilson, Olivier Chevalier and Oliver Welcomme.
 
 # Teaching activities
+during the universitary year *2023-2024*:
+   * DevOps (Session labs and lectures for a total of 24h): (about 40) M1 (or equivalent) students; about the aim of DevOps in companies and the necessity of having continuous feedbacks.
+   * Software Architecture (Session labs 12h): (about 15) M1 (or equivalent) students. Docker introduction and containerizing a student project
+   * Programming (C++ and Java 36h): (about 15) L3 (or equivalent) students. Introduction to Object Oriented Programming, class hierarchy, memory management, iterators.
+   * Introduction to Object Modeling (Session labs for 24h): in charge of the MIAGE class (about 80 M1 or equivalent students). Introduction to class and object diagrams, sequence diagrams, use case diagrams. Students had to do a project to apply these different diagrams to understand that some description can be ambiguous.
 
+during the universitary year *2022-2023*:
+   * DevOps (Session labs and lectures for a total of 24h): (about 60) M1 (or equivalent) students; about the aim of DevOps in companies and the necessity of having continuous feedbacks.
+   * Software Architecture (Session labs 12h): (about 15) M1 (or equivalent) students. Docker introduction and containerizing a student project
 
 during the universitary year *2021-2022*:
    * Mathematics for Computer Science (Tutoring about 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
