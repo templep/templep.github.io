@@ -12,7 +12,9 @@ The thesis is entitled: Investigate the Matrix: Leveraging Variability to Specia
 Furthermore, I am a tennis player. I began to play tennis at 6 until my 18. I stopped to focus on my studies and started again during my PhD.
 
 To see the list of my publications, [click here](./publications.md).
+
 To see the list of classes and courses I am involved in, [click here](./teaching.md).
+
 I am also involved in jurys and PhD supervision, [click here to know more about that](./jury_and_supervision.md).
 
 ## Background
