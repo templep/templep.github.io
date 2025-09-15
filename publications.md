@@ -1,4 +1,19 @@
 # Publications
+
+* Brell Sanwouo, Clément Quinton, **Paul Temple**. [Generative AI-based Adaptation in Microservices Architectures: A Systematic Mapping Study](https://hal.science/hal-05082732/document). ICWS'25
+
+* Martin Molli, Daniel Balouek, **Paul Temple**, Thomas Ledoux. [Facilitating Heterogeneity Management on the Computing Continuum](https://hal.science/hal-05138189v1/file/Papier_Compas_2025.pdf). COMPAS'25
+
+* Brell Peclard Sanwouo, **Paul Temple**, Clément Quinton. [Breaking the Loop: AWARE is the new MAPE-K](https://hal.science/hal-04992342v1/document). FSE 2025
+
+* Camille Molinier, **Paul Temple**, Zendra Olivier, Olivier Barais. [Approches pour le renforcement d'une IA embarquée face aux attaques perturbant le federated learning](https://hal.science/hal-05004582v1/file/RESSI_2025_final.pdf). RESSI'25
+
+* Brell Peclard Sanwouo, Clément Quinton, **Paul Temple**. [Toward AI-based Complex Self-Adaptive Systems](https://inria.hal.science/hal-04896457/document). BENEVOL'24
+
+* Antoine Gratia, Hong Liu, Shin Ichi Satoh, **Paul Temple**, Pierre-Yves Schobbens, and Gilles Perrouin. [Cnngen: A generator and a dataset for energy-aware neural architecture search](https://inria.hal.science/hal-04957651/file/ESANN2024_CNNGEN.pdf). ESANN 2024
+
+* Antoine Gratia, **Paul Temple**, Pierre-Yves Schobbens, and Gilles Perrouin. [Energy-Aware Neural Architecture Search: Leveraging Genetic Algorithms for Balancing Performance and Consumption](https://inria.hal.science/hal-04957679/file/WIVACE2024_CNNGEN_Postproceedings_Springer_CR.pdf) WIVACE Workshop 2024. 
+
 * Sophie Fortz, **Paul Temple**, Xavier Devroey, and Gilles Perrouin. [Towards Feature-based ML-enabled Behaviour Location](https://dl.acm.org/doi/pdf/10.1145/3634713.3634734). VaMoS 2024
 
 * Luc Lesoil, Helge Spieker, Arnaud Gotlieb, Mathieu Acher, **Paul Temple**, Arnaud Blouin, and Jean-Marc Jézéquel. [Learning input-aware performance models of
@@ -7,6 +22,7 @@ configurable systems: An empirical evaluation](https://hal.science/hal-04271476/
 * Sophie Fortz, **Paul Temple**, Xavier Devroey, Patrick Heymans, and Gilles Perrouin. [VaryMinions: Leveraging RNNs to Identify Variants in Variability-intensive Systems' Logs](https://hal.science/hal-04505454/). EMSE 2024
 
 * Camille Molinier, **Paul Temple**, and Gilles Perrouin. [FairPipes: Data Mutation Pipelines for Machine Learning Fairness](https://hal.science/hal-04440201v1/file/AST_2024___Fairness_Assessment_via_Mutation_Testing.pdf). AST 2024
+  
 * Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. [Learning customised decision trees for domain-knowledge constraints](https://www.sciencedirect.com/science/article/pii/S0031320323003114). Pattern Recognition 2023
 
 * **Paul Temple** and Gilles Perrouin. [Explicit or Implicit? On Feature Engineering for ML-based Variability-intensive Systems](https://dl.acm.org/doi/pdf/10.1145/3571788.3571804). VaMoS 2023
