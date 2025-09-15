@@ -11,11 +11,14 @@ The thesis is entitled: Investigate the Matrix: Leveraging Variability to Specia
 
 Furthermore, I am a tennis player. I began to play tennis at 6 until my 18. I stopped to focus on my studies and started again during my PhD.
 
+## Publications
 To see the list of my publications, [click here](./publications.md).
 
+## Teaching
 To see the list of classes and courses I am involved in, [click here](./teaching.md).
 
-I am also involved in jurys and PhD supervision, [click here to know more about that](./jury_and_supervision.md).
+## Jurys and supervision
+I am also involved in jurys and student supervision (PhD and Masters), [click here to know more about that](./jury_and_supervision.md).
 
 ## Background
 
@@ -34,6 +37,17 @@ As my experience in research grows and I explore new ideas, my topics of interes
 
 
 # Research Activities
+
+## WestOps (ANR TSIA)
+The WestOps project is funded by the French National Agency for Research (ANR) and gather the DiverSE team as well as two industrial partners:
+ 1) [Kereval](https://www.kereval.com/), a small to medium-sized company located in Brittany (just next to Rennes), and specialized in software testing and requirements engineering. Their focus was more on systems designed for medical activities, but they are turning more and more onto AI-based systems.
+ 2) [Ouest-France](https://www.ouest-france.fr/) is a French newspaper company located in Rennes and targeted the west of France for their audience.
+For years now, they know the importance of research for their activities, especially to help them sort and search in their content that grows more and more every day.
+They have regular meetings with some members of IRISA (recently, a common lab has been created to facilitate their interactions).
+
+The WestOps project is born from the observation of both Inria and Kereval that AI models are now subject to changes over time. They can adapt to these changes by retraining.
+Yet, it may not be sufficient, as abrupt and big changes can occur almost instantly. In addition, triggering retraining is usually done in an automatic way, but when should this be done?
+The WestOps project tries to investigate these questions and ensure the quality of AI models evolving over time in an automated way. It targets also a real world application as Ouest-France is willing to apply directly the results of WestOps to their automated pipelines and thus improve their product and processing chain.
 
 ## EoS VeriLearn Project
 The EoS VeriLearn Project is a blue sky project trying to think about how Machine Learning and other Artificial Intelligence techniques can be tested and/or verified.
@@ -88,58 +102,8 @@ An other concern was how sensitive the establishment of separating functions is 
 This topic is very close to the work conducted by [Battista Biggio](https://pralab.diee.unica.it/en/BattistaBiggio) and the [PRALab](http://pralab.diee.unica.it/en) in Cagliari.
 
 
-# Publications
-* Sophie Fortz, **Paul Temple**, Xavier Devroey, and Gilles Perrouin. [Towards Feature-based ML-enabled Behaviour Location](https://dl.acm.org/doi/pdf/10.1145/3634713.3634734). VaMoS 2024
 
-* Luc Lesoil, Helge Spieker, Arnaud Gotlieb, Mathieu Acher, **Paul Temple**, Arnaud Blouin, and Jean-Marc Jézéquel. [Learning input-aware performance models of
-configurable systems: An empirical evaluation](https://hal.science/hal-04271476/document). JSS 2024
-
-* Sophie Fortz, **Paul Temple**, Xavier Devroey, Patrick Heymans, and Gilles Perrouin. [VaryMinions: Leveraging RNNs to Identify Variants in Variability-intensive Systems' Logs](https://hal.science/hal-04505454/). EMSE 2024
-
-* Camille Molinier, **Paul Temple**, and Gilles Perrouin. [FairPipes: Data Mutation Pipelines for Machine Learning Fairness](https://hal.science/hal-04440201v1/file/AST_2024___Fairness_Assessment_via_Mutation_Testing.pdf). AST 2024
-* Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. [Learning customised decision trees for domain-knowledge constraints](https://www.sciencedirect.com/science/article/pii/S0031320323003114). Pattern Recognition 2023
-
-* **Paul Temple** and Gilles Perrouin. [Explicit or Implicit? On Feature Engineering for ML-based Variability-intensive Systems](https://dl.acm.org/doi/pdf/10.1145/3571788.3571804). VaMoS 2023
-
-* **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel. [Empirical Assessment of Multimorphic Testing](https://ieeexplore.ieee.org/document/8755468). IEEE Transactions on Software Engineering (TSE) 2019
-
-* **Paul Temple**, Gilles Perrouin, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Empirical Assessment of Generating Adversarial Configurations for Software Product Lines](https://link.springer.com/article/10.1007/s10664-020-09915-7). EMSE 2020 Special Issue
-
-* Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. [Constraint Enforcement on Decision Trees: a Survey](https://dl.acm.org/doi/pdf/10.1145/3506734). ACM Computing Surveys 2022
-
-* Pieter Delobelle, **Paul Temple**, Gilles Perrouin, Benoît Frénay, Patrick Heymans, and Bettina Berendt. [Ethical Adversaries: Towards Mitigating Unfairness with Adversarial Machine Learning](https://dl.acm.org/doi/abs/10.1145/3468507.3468513). ACM SIGKDD Explorations Newsletter, June 2021
-
-* Géraldin Nanfack, **Paul Temple**, and Benoit Frénay. [Global Explanations with Decision Rules: a Co-learning Approach](https://proceedings.mlr.press/v161/nanfack21a/nanfack21a.pdf). Conference on Uncertainty in Artificial Intelligence (UAI), July 2021, Online
-
-* Sophie Fortz, **Paul Temple**, Xavier Devroey, Patrick Heymans, Gilles Perrouin. [VaryMinions: leveraging RNNs to identify variants in event logs](https://doi.org/10.1145/3472674.3473980). 5th International Workshop on Machine Learning Techniques for Software Quality Evolution (MaLTeSQUE), August 21, Online
-
-* Juliana Alves Pereira, Hugo Martin, Mathieu Acher, **Paul Temple**. [Machine Learning and Configurable Systems: A Gentle Introduction](https://hal.inria.fr/hal-03020125/document). (Online) Software Product Line Conference (SPLC), Sep 2020, Montreal, Canada (*Tutorial Session*)
-
-* **Paul Temple**, Mathieu Acher, Gilles Perrouin, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Quality Assurance of Software Product Lines with Adversarial Configurations](https://pure.unamur.be/ws/portalfiles/portal/52874299/Adversarial_Constraints_for_Variability_Models_SPLC2019.pdf). Software Product Line Conference (SPLC), Sep 2019, Paris, France
-
-* Hugo Martin, Juliana Alves Pereira, Mathieu Acher, **Paul Temple**. [Machine Learning and Configurable Systems: A Gentle Introduction](https://hal.inria.fr/hal-02287459/document). Software Product Line Conference (SPLC), Sep 2019, Paris, France (*Tutorial Session*)
-
-* **Paul Temple**, Gilles Perrouin, Benoît Frénay, Pierre-Yves Schobbens. [Customizing Adversarial Machine Learning to Test Deep Learning Techniques](https://pure.unamur.be/ws/portalfiles/portal/39547657/Customizing_Adversarial_Machine_Learning_to_test_Deep_Learning_techniques.pdf). 1st Workshop on Deep Learning<=> Testing (co-located with ICSE'19), May 2019, Montréal, Canada
-
-* **Paul Temple**, Hugo MARTIN, Mathieu ACHER, Jean-Marc Jézéquel. [Applying Multimorphic Testing to Deep Learning Systems](). 1st Workshop on Deep Learning<=> Testing (co-located with ICSE'19), May 2019, Montréal, Canada
-
-* Benoit Amand, Maxime Cordy, Patrick Heymans, Mathieu Acher, **Paul Temple**, Jean-Marc Jézéquel. [Towards Learning-Aided Configuration in 3D Printing: Feasibility Study and Application to Defect Prediction](https://hal.inria.fr/hal-01990767/document). 13th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), Feb 2019, Leuven, Belgium
-
-* **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel. [Multimorphic Testing](https://hal.inria.fr/hal-01730163/). 40th International Conference on Software Engineering (ICSE), May 2018, Gothenburg, Sweden  (*Poster Session*)
-
-* Jabier Martinez, Jean-Sébasten Sottet, Alfonso Garcia Frey, Tegawendé Bissyandé, Tewfik Ziadi, Jacques Klein, **Paul Temple**, Mathieu Acher, Yves Le Traon. [Towards Estimating and Predicting User Perception on Software Product Variants](http://hal.upmc.fr/hal-01720519). International Conference on Software Reuse (ICSR), May 2018, Madrid, Spain
-
-* Mathieu Acher, **Paul Temple**, Jean-Marc Jézéquel, José Angel Galindo Duarte, Jabier Martinez, Tewfik Ziadi. [VaryLaTeX: Learning Paper Variants That Meet Constraints](https://hal.inria.fr/hal-01659161). 12th International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS), Feb 2018, Madrid, Spain
-
-* **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel, Olivier Barias. [Learning Contextual-Variability Models](http://resolver.ebscohost.com/openurl?sid=google&auinit=P&aulast=Temple&atitle=Learning+Contextual-Variability+Models&id=doi%3a10.1109%2fMS.2017.4121211&site=ftf-live). IEEE Software Special Issue on Context Aware and Smart Healthcare, Novembre-Décembre 2017
-
-* **Paul Temple**, José Angel Galindo Duarte, Mathieu Acher, Jean-Marc Jézéquel. [Using Machine Learning to Infer Constraints for Product Lines](https://hal.inria.fr/hal-01323446). Software Product Line Conference (SPLC), Sep 2016, Beijing, China
-
-* **Paul Temple**, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Adversarial Configurations for Software Product Lines](https://arxiv.org/abs/1805.12021)
-
-* **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel, Léo Noel-Baron, José Galindo. [Learning-Based Performance Specialization of Configurable Systems](https://hal.inria.fr/hal-01467299)
-
-# Program Comitees
+# Program Comittees
 
 I was PC member of the [SPLC'19](http://kishi-lab.sakura.ne.jp/splc2019/call-for-papers/call-for-research-papers/) _Artifacts Track_ organized in Paris from the 9th to the 13th of September 2019.
 In 2020, I was PC member of the _Artifact Track_ but also the _Challenge Solution Track_ of [SPLC'20](https://splc2020.net/) organized in Montreal, Canada but held online due to the Covid19 pandemic situation from the 19th to the 23th of October 2020.
@@ -166,62 +130,6 @@ I made reviews for:
  In 2019 and 2023, I received a Best Reviewer Award from SoSyM that recognizes me as one of the ["Top 1% of SoSyM Reviewers"](https://www.sosym.org/reviewer_awards/).
  I am now on the [distinguished TOSEM reviewers board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board).
  
-# Supervision & Jury Member
-
-I am currently helping in the supervision of *Antoine Gratia* who made a Master's thesis on modeling the variability of CNN architectures and that is now starting a PhD at the university of Namur under the supervision of Dr. Gilles Perrouin and Prof. Pierre-Yves Schobbens.
-During my post-doc, I also supervised two other PhD students: *Géraldin Nanfack* (PhD student under the supervision of Prof. Benoît Frénay) and *Sophie Fortz* (PhD student under the supervision of Dr. Gilles Perrouin).
-
-During my PhD, I have worked with Clémentine Delambily, *Hugo Martin* and Léo Noël-Baron; all of them were brillant student helping during summers 2017 and 2018.
-In 2023, I supervised *Camille Molinier* who performed his internship at the University of Namur under the supervision of Dr. Gilles Perrouin.
-
-In June 2019, I was member of the jury (president jury) at the defense of _Samraa Alzubi_. She defended her Master thesis in cybersecurity entitled _Black-Box Adversarial Reprogramming Attack Against Convolutional Neural Networks Using Genetic Algorithm_.
-
-The same year, I was also involved in the jury evaluating the work of _Simon Genin_ to obtain his Master's degree.
-This Master's thesis was supervised by Prof. Benoît Frénay and Prof. Benoît Vanderose.
-
-Since then, I am involved in the jury of 2 masters students at the university of Namur every year. These juries involve: Céline Delhaye, Hugo Devillers, Piotr Banach, Audrey Gilson, Olivier Chevalier and Oliver Welcomme.
-
-# Teaching activities
-during the universitary year *2023-2024*:
-   * DevOps (Session labs and lectures for a total of 24h): (about 40) M1 (or equivalent) students; about the aim of DevOps in companies and the necessity of having continuous feedbacks.
-   * Software Architecture (Session labs 12h): (about 15) M1 (or equivalent) students. Docker introduction and containerizing a student project
-   * Programming (C++ and Java 36h): (about 15) L3 (or equivalent) students. Introduction to Object Oriented Programming, class hierarchy, memory management, iterators.
-   * Introduction to Object Modeling (Session labs for 24h): in charge of the MIAGE class (about 80 M1 or equivalent students). Introduction to class and object diagrams, sequence diagrams, use case diagrams. Students had to do a project to apply these different diagrams to understand that some description can be ambiguous.
-
-during the universitary year *2022-2023*:
-   * DevOps (Session labs and lectures for a total of 24h): (about 60) M1 (or equivalent) students; about the aim of DevOps in companies and the necessity of having continuous feedbacks.
-   * Software Architecture (Session labs 12h): (about 15) M1 (or equivalent) students. Docker introduction and containerizing a student project
-
-during the universitary year *2021-2022*:
-   * Mathematics for Computer Science (Tutoring about 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
-   * Software Testing (Session labs and lectures for a total of 15h): supervised by Dr. Gilles Perrouin, we teach the foundamentals of software testing and more advanced techniques (mutation testing, metamorphic testing, fuzzy testing, test smells, etc.); for 1st year Masters students from the computer science faculty of the University of Namur, Belgium
-
-during the universitary year *2020-2021*:
-   * Mathematics for Computer Science (Tutoring about 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
-   * Software Testing (Session labs and lectures for a total of 15h): supervised by Dr. Gilles Perrouin, we teach the foundamentals of software testing and more advanced techniques (mutation testing, metamorphic testing, fuzzy testing, test smells, etc.); for 1st year Masters students from the computer science faculty of the University of Namur, Belgium. I had the opportunity to give a 2-hour class about performance testing.
-
-during the universitary year *2019-2020*:
-   * Mathematics for Computer Science (Tutoring about 15h): basics concepts of Mathematics for Cryptography mainly (modular arithmetic, discrete log, symmetric encryption and asymmetric encryption, elliptic curves); for 2nd year of Bachelor students from the Economics department of the University of Namur, Belgium
-
-during the universitary year *2017-2018*:
-   * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
-   * Modélisation & Développement Industriel or MDI (Session Labs 12h + Tutoring 10h) : UML, Design Pattern, Basics of software testing and Good Practices in the modeling of a system to ESIR2 students (equivalent M1 // first year of master's degree)
-   * Software Architecture (Session labs -> 12h) : introduction to containers, component based architecture to ESIR2 students (equivalent M1 // first year of master's degree)
-
-during the universitary year *2016-2017*:
-   * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
-   * Modélisation & Développement Industriel or MDI (Session Labs 12h + Tutoring 10h): Introduction to Design Pattern, UML modeling and Good Practices in the modeling of a system to ESIR2 students (equivalent M1 // first year of master's degree)
-   * Validation & Verification (Session labs -> 10h): Software Verification and Validation; software testing and technology to help testing. Adressed to ESIR3 students (equivalent M2 // second year of master's degree)
-
-during the universitary year *2015-2016*:
-   * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ESIR1 students (equivalent L3 // Bachelor's degree)
-   * Software Architecture (Session labs -> 2*12h): introduction to containers, component based architecture to ESIR2 students (equivalent M1 // first year of master's degree)
-   * Validation & Verification (Session labs -> 10h): Software Verification and Validation; software testing and technology to help testing. Adressed to ESIR3 students (equivalent M2 // second year of master's degree)
-   * Introduction to Machine Learning (Session labs -> 12h): Introduction to supervised techniques (SVM, Decision Trees, Bayesian Classifier) and to abductive learning or inferential learning via ALEPH (in Prolog) to INSA students (equivalent M1 // first year of master's degree)
-
-during the universitary year *2015-2014* (at ENSICaen):
-   * Programming (Session labs -> 32h): basics of programming (and Object Oriented Programming) in Java to ENSICaen1 students (equivalent L3 // Bachelor's degree)
-   * Databases (Session labs -> 32h): SQL databases and requests; PL/SQL to ENSICaen2 students (equivalent M1 // first year of master's degree)
    
 # Contact me
 * paul.temple@irisa.fr
