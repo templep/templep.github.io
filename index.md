@@ -112,7 +112,21 @@ In 2023, I was again PC member for the _solution track_ but also for the _resear
 
 In 2021, I served as a [co-chair](https://splc2021.net/committees/organization) of the complete _Challenge Track_ (evaluation of new cases but also solutions) at [SPLC'21](https://splc2021.net/) organized in Leicester, England, UK from the 6th to the 11th of September 2021. 
 
+I have served since 2023 as a PC member for the **research track** (the main track) at SPLC and VaMoS 2024.
 I have also served as a PC member for the FAT* 2020 conference (now named FAccT) and MaLTeSQuE 2021.
+
+# Event Organization
+
+I was part of the organizing committee of the **VaMoS 2025** held in Rennes. The website is accessible [here (clickable link)](https://familiar-project.github.io/VaMoS2025/).
+I was in charge of local arrangements that includes: organizing the gala diner, organizing the social events, finding gifts for participants, helping participating find hotels, etc.
+
+In 2025, I also co-organized a **French summer school** with [Jamal El Hachem](https://www.linkedin.com/in/jamal-el-hachem-a5a5386b/?originalSubdomain=fr)
+for the national research group for software engineering led by the CNRS. In French, this group is called GDR GPL.
+The **summer school (called EJCP)** was held in Vannes between the 30th of June and the 4th of July. The program is available [here](https://gpl-ejcp.github.io/ejcp2025)
+and aims at giving an overview of research activities that can be done in software engineering by inviting various researchers to talk about their experience and research interests.
+The school is dedicated to young researchers, often PhD students, so that they can create a national network but also learn more about this broad research field that is software engineering.
+About 20 PhD students participated to this edition.
+The organization's duty consists of finding rooms to run the summer school, finding facilities such as hotel rooms, food and drinks for lunches and breaks, but also contacting researchers to build the scientific programs. Managing the budget is also a big part of the organization's duty.
 
 # Review activities
 I made reviews for:
