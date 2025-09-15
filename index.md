@@ -11,6 +11,10 @@ The thesis is entitled: Investigate the Matrix: Leveraging Variability to Specia
 
 Furthermore, I am a tennis player. I began to play tennis at 6 until my 18. I stopped to focus on my studies and started again during my PhD.
 
+To see the list of my publications, [click here](./publications.md).
+To see the list of classes and courses I am involved in, [click here](./teaching.md).
+I am also involved in jurys and PhD supervision, [click here to know more about that](./jury_and_supervision.md).
+
 ## Background
 
 After graduating in Computer Science with a fous on Data Image Processing (a 2-years diploma teachning fundamentals of a panel of facets of computer science, including OS, Programming, Mathematics, Web technologies, network managing, Systems design, etc.)from the Institute of Technology of Lannion (France); I went to ESIR (Ecole Supérieure d'Ingénieurs de Rennes, Rennes, France), an engeeniering school where I chose to continue focusing on Data Image Processing.
