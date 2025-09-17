@@ -147,3 +147,5 @@ I made reviews for:
    
 # Contact me
 * paul.temple@irisa.fr
+
+<sup><sub> Last update: September 2025 </sub></sup>
