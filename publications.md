@@ -1,5 +1,8 @@
 # Publications
 
+[Coming back the main page](./index.md)
+
+
 * Brell Sanwouo, Clément Quinton, **Paul Temple**. [Dynamic Agent Generation for Self-Adaptive Root Cause Analysis](https://hal.science/hal-05402186/document). SEAMS'26 Artifact Track ([**Best Artificat Award**](https://dl.acm.org/doi/full/10.1145/3788550.3794938))
 
 * Martin Molli, Daniel Balouek, **Paul Temple**. Thomas Ledoux, [Event-Driven Adaptation in the Computing Continuum using software variability](https://dl.acm.org/doi/full/10.1145/3773274.3774672). UCC'25
@@ -68,3 +71,5 @@ configurable systems: An empirical evaluation](https://hal.science/hal-04271476/
 * **Paul Temple**, Mathieu Acher, Battista Biggio, Jean-Marc Jézéquel, Fabio Roli. [Towards Adversarial Configurations for Software Product Lines](https://arxiv.org/abs/1805.12021)
 
 * **Paul Temple**, Mathieu Acher, Jean-Marc Jézéquel, Léo Noel-Baron, José Galindo. [Learning-Based Performance Specialization of Configurable Systems](https://hal.inria.fr/hal-01467299)
+
+[Coming back the main page](./index.md)
