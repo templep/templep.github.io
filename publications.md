@@ -1,8 +1,8 @@
 # Publications
 
-* Brell Sanwouo, Clément Quinton, **Paul Temple**. [Dynamic Agent Generation for Self-Adaptive Root Cause Analysis]{https://hal.science/hal-05402186/document}. SEAMS'26 Artifact Track ([**Best Artificat Award**]{https://dl.acm.org/doi/full/10.1145/3788550.3794938})
+* Brell Sanwouo, Clément Quinton, **Paul Temple**. [Dynamic Agent Generation for Self-Adaptive Root Cause Analysis](https://hal.science/hal-05402186/document). SEAMS'26 Artifact Track ([**Best Artificat Award**](https://dl.acm.org/doi/full/10.1145/3788550.3794938))
 
-* Martin Molli, Daniel Balouek, **Paul Temple**. Thomas Ledoux, [Event-Driven Adaptation in the Computing Continuum using software variability]{https://dl.acm.org/doi/full/10.1145/3773274.3774672}. UCC'25
+* Martin Molli, Daniel Balouek, **Paul Temple**. Thomas Ledoux, [Event-Driven Adaptation in the Computing Continuum using software variability](https://dl.acm.org/doi/full/10.1145/3773274.3774672). UCC'25
 
 * Brell Sanwouo, Clément Quinton, **Paul Temple**. [Generative AI-based Adaptation in Microservices Architectures: A Systematic Mapping Study](https://hal.science/hal-05082732/document). ICWS'25
 
