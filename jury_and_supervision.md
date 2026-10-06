@@ -1,5 +1,7 @@
 # Supervision & Jury Member
 
+[Coming back the main page](./index.md)
+
 ### PhD supervision
 
 #### Current
@@ -45,3 +47,5 @@ This Master's thesis was supervised by Prof. Benoît Frénay and Prof. Benoît V
 Since then, I am involved in the jury of 2 masters students at the university of Namur every year. These juries involve: Céline Delhaye, Hugo Devillers, Piotr Banach, Audrey Gilson, Olivier Chevalier and Oliver Welcomme.
 
 In 2023 and 2024, I volunteered to supervise (from the academic perspective) ESIR students for their final internship. This implies meeting them at least once during their internship but also to be part of jury sessions. These are time slots (often 2 hours) in which different student will present the work achieved during their internship. The defense is typically 20 minutes long, followed by 10 to 15 minutes of questioning by the jury members.
+
+[Coming back the main page](./index.md)
