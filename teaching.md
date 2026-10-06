@@ -1,4 +1,6 @@
 # Teaching activities
+[Coming back the main page](./index.md)
+
 *2026-2027* (ESIR, Rennes, FRANCE):
    * V & V (Session labs and lectures for a total of 24h): 30 to 40 M1 (or equivalent) students; introduction to software testing, verification and validation. Reverse classes.
    * OMD (Outils de Modélisation et de Développement; total of 24h Session labs, 6h Tutorial, 3h Lectures): about 60 students in their 1st year of Master's degree; Introduction to class and object diagrams, sequence diagrams, use case diagrams. Different exercises that require the student to analyse the provided description and realise a model of the application. Some hands-on exercises with different tools that are used in modern development as well.
@@ -55,3 +57,5 @@
 *2015-2014* (at ENSICaen, Caen, FRANCE):
    * Programming (Session labs -> 32h): basics of programming (and Object-Oriented Programming) in Java for ENSICaen1 students (equivalent L3 // Bachelor's degree)
    * Databases (Session labs -> 32h): SQL databases and requests; PL/SQL to ENSICaen2 students (equivalent M1 // first year of master's degree)
+
+[Coming back the main page](./index.md)
