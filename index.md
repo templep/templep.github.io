@@ -1,6 +1,6 @@
 # Presentation
 
-Since September 2022, I am an associate professor at the University of Rennes. I teach mainly at ESIR ([https://esir.univ-rennes.fr/](https://esir.univ-rennes.fr/]). Research-wise, I joined the DiverSE team to tackle new challenges in software engineering, software testing, software variability, and machine learning between 2022 and 2025. From the 1st of January 2026, I joined the [ARTISHAU](https://team.inria.fr/artishau/) research group for the same kind of challenges but with colleagues mostly from the AI side.
+Since September 2022, I am an associate professor at the University of Rennes. I teach mainly at ESIR ([https://esir.univ-rennes.fr/](https://esir.univ-rennes.fr/]). Research-wise, I joined the [DiverSE team](https://www.diverse-team.fr/) to tackle new challenges in software engineering, software testing, software variability, and machine learning between 2022 and 2025. From the 1st of January 2026, I joined the [ARTISHAU](https://team.inria.fr/artishau/) research group for the same kind of challenges but with colleagues mostly from the AI side.
 
 From January 2019 to September 2022, I was a post-doc researcher at the Namur Digital Institute (NaDI) at the University of Namur (UNamur).
 I was involved in the EoS (Excellence of Science) [VeriLearn project](https://eos.cs.kuleuven.be/content/home) with Gilles Perrouin, Patrick Heymans, Benoit Frenay and Pierre-Yves Schobbens.
