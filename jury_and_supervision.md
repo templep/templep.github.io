@@ -4,15 +4,15 @@
 
 #### Current
 
-* Malvin Chevallier* started his PhD in October 2025. More to come.
+* *Malvin Chevallier* started his PhD in October 2025. More to come.
 
-* Valere Billaud* started his PhD in October 2025, after a 6-month period as an engineer in the DiverSE team. He is working on LLM-generated code and is specifically interested in detecting inserted vulnerabilities so that we can better understand the generation process and try to prevent them upfront. The end of his work is expected by the end of 2028.
+* *Valere Billaud* started his PhD in October 2025, after a 6-month period as an engineer in the DiverSE team. He is working on LLM-generated code and is specifically interested in detecting inserted vulnerabilities so that we can better understand the generation process and try to prevent them upfront. The end of his work is expected by the end of 2028.
 
-* Camille Molinier* started his PhD in October 2024. He is focusing on trying to robustify the evolution of ML models in the context of Federated Learning using software testing and software engineering methods. The end of this work is expected in 2027.
+* *Camille Molinier* started his PhD in October 2024. He is focusing on trying to robustify the evolution of ML models in the context of Federated Learning using software testing and software engineering methods. The end of this work is expected in 2027.
 
-* Martin Molli* started his PhD in November 2024. He is mainly supervised by Dr Daniel Balouek and Prof. Thomas Ledoux (IMT Atlantique Nantes, members of the STACK team). Martin tries to use ML and software variability techniques to manage and optimize, in a smooth way, application placement and service placement in the computing continuum. The end of this work is expected in 2027 (or early 2028).
+* *Martin Molli* started his PhD in November 2024. He is mainly supervised by Dr Daniel Balouek and Prof. Thomas Ledoux (IMT Atlantique Nantes, members of the STACK team). Martin tries to use ML and software variability techniques to manage and optimize, in a smooth way, application placement and service placement in the computing continuum. The end of this work is expected in 2027 (or early 2028).
 
-* Brell Peclard Sanwouo Chekam* started his PhD in 2024. He is mainly supervised by Dr Clément Quinton (University of Lille, member of Spirals team). Brell is looking at how Agentic AI can improve system architectures and make them more autonomous. His dream would be to propose the next evolution of the MAPE-K loop. The end of this work is expected in 2027.
+* *Brell Peclard Sanwouo Chekam* started his PhD in 2024. He is mainly supervised by Dr Clément Quinton (University of Lille, member of Spirals team). Brell is looking at how Agentic AI can improve system architectures and make them more autonomous. His dream would be to propose the next evolution of the MAPE-K loop. The end of this work is expected in 2027.
 
 #### Past
 After his Master's thesis, *Antoine Gratia* started his PhD under the supervision of Dr. Gilles Perrouin and Prof. Pierre-Yves Schobbens. He focused on modeling CNN architectures with variability-aware techniques but also tackled the problem of trying to optimize their energy consumption while keeping an acceptable level of accuracy. It basically turned into a multi-objective optimisation problem. Antoine defended in 2025.
@@ -25,6 +25,11 @@ Sophie worked on automated learning problems (with DL or L* algorithm) associate
 During my PhD, I have worked with Clémentine Delambily, *Hugo Martin* and Léo Noël-Baron; all of them were brillant student helping during summers 2017 and 2018.
 During my post-doc, in 2021, I helped in the supervision of *Antoine Gratia* who made a Master's thesis on modeling the variability of CNN architectures.
 In 2023, I supervised *Camille Molinier* who performed his internship at the University of Namur under the supervision of Dr. Gilles Perrouin.
+In 2026, I supervised *Charlotte Caille* who had to work on the meaning and evaluation of ML models that evolve with the pace of CI/CD. It was a work related into the ANR TSIA WestOps project.
+
+I also supervise interns regularly in Rennes (equivalent of Bachelor's degree and 1st-year of Master's degree), about 1 or 2 student per year.
+We also have student exchange for internships with the University of Namur and the University of Sevilla.
+
 
 ### Jury
 
